@@ -1,0 +1,979 @@
+,player,opposition,runs,wkts
+0,A Dutt (NED),v Afghanistan,59,0.0
+1,A Dutt (NED),v Australia,60,1.0
+2,A Dutt (NED),v Bangladesh,35,1.0
+3,A Dutt (NED),v England,68,2.0
+4,A Dutt (NED),v India,57,0.0
+5,A Dutt (NED),v New Zealand,73,2.0
+6,A Dutt (NED),v Pakistan,49,1.0
+7,A Dutt (NED),v South Africa,42,0.0
+8,A Dutt (NED),v Sri Lanka,53,3.0
+9,A Zampa (AUS),v Afghanistan,58,1.0
+10,A Zampa (AUS),v Bangladesh,32,2.0
+11,A Zampa (AUS),v England,50,3.0
+12,A Zampa (AUS),v India,59,0.0
+13,A Zampa (AUS),v Netherlands,9,4.0
+14,A Zampa (AUS),v New Zealand,74,3.0
+15,A Zampa (AUS),v Pakistan,54,4.0
+16,A Zampa (AUS),v South Africa,136,1.0
+17,A Zampa (AUS),v Sri Lanka,47,4.0
+18,AAP Atkinson (ENG),v Netherlands,43,0.0
+19,AAP Atkinson (ENG),v Pakistan,45,2.0
+20,AAP Atkinson (ENG),v South Africa,95,2.0
+21,AD Mathews (SL),v Afghanistan,41,0.0
+22,AD Mathews (SL),v Bangladesh,35,2.0
+23,AD Mathews (SL),v England,14,2.0
+24,AD Mathews (SL),v India,23,0.0
+25,AD Mathews (SL),v New Zealand,45,2.0
+26,AK Markram (SA),v Afghanistan,50,0.0
+27,AK Markram (SA),v Australia,89,1.0
+28,AK Markram (SA),v Bangladesh,60,0.0
+29,AK Markram (SA),v England,42,0.0
+30,AK Markram (SA),v India,26,0.0
+31,AK Markram (SA),v Netherlands,1,0.0
+32,AK Markram (SA),v New Zealand,6,0.0
+33,AK Markram (SA),v Pakistan,111,0.0
+34,AK Markram (SA),v Sri Lanka,106,0.0
+35,AL Phehlukwayo (SA),v Afghanistan,75,1.0
+36,AT Carey (AUS),v India,0,0.0
+37,AT Nidamanuru (NED),v Australia,14,0.0
+38,AT Nidamanuru (NED),v England,41,0.0
+39,AT Nidamanuru (NED),v India,54,0.0
+40,AT Nidamanuru (NED),v New Zealand,21,0.0
+41,AT Nidamanuru (NED),v Pakistan,5,0.0
+42,AT Nidamanuru (NED),v South Africa,20,0.0
+43,AT Nidamanuru (NED),v Sri Lanka,9,0.0
+44,AU Rashid (ENG),v Afghanistan,62,3.0
+45,AU Rashid (ENG),v Australia,58,2.0
+46,AU Rashid (ENG),v Bangladesh,53,1.0
+47,AU Rashid (ENG),v India,48,2.0
+48,AU Rashid (ENG),v Netherlands,55,3.0
+49,AU Rashid (ENG),v New Zealand,62,0.0
+50,AU Rashid (ENG),v Pakistan,55,2.0
+51,AU Rashid (ENG),v South Africa,71,2.0
+52,AU Rashid (ENG),v Sri Lanka,41,0.0
+53,Abdullah Shafique (PAK),v Afghanistan,58,0.0
+54,Abdullah Shafique (PAK),v Australia,64,0.0
+55,Abdullah Shafique (PAK),v Bangladesh,68,0.0
+56,Abdullah Shafique (PAK),v England,0,0.0
+57,Abdullah Shafique (PAK),v India,20,0.0
+58,Abdullah Shafique (PAK),v New Zealand,4,0.0
+59,Abdullah Shafique (PAK),v South Africa,9,0.0
+60,Abdullah Shafique (PAK),v Sri Lanka,113,0.0
+61,Agha Salman (PAK),v England,76,0.0
+62,Agha Salman (PAK),v New Zealand,21,0.0
+63,Azmatullah Omarzai (AFG),v Australia,74,2.0
+64,Azmatullah Omarzai (AFG),v Bangladesh,31,1.0
+65,Azmatullah Omarzai (AFG),v England,32,0.0
+66,Azmatullah Omarzai (AFG),v India,96,0.0
+67,Azmatullah Omarzai (AFG),v Netherlands,42,0.0
+68,Azmatullah Omarzai (AFG),v New Zealand,83,2.0
+69,Azmatullah Omarzai (AFG),v Pakistan,50,1.0
+70,Azmatullah Omarzai (AFG),v South Africa,105,0.0
+71,Azmatullah Omarzai (AFG),v Sri Lanka,110,1.0
+72,BA Stokes (ENG),v Australia,64,0.0
+73,BA Stokes (ENG),v India,0,0.0
+74,BA Stokes (ENG),v Netherlands,108,0.0
+75,BA Stokes (ENG),v Pakistan,84,0.0
+76,BA Stokes (ENG),v South Africa,5,0.0
+77,BA Stokes (ENG),v Sri Lanka,43,0.0
+78,BFW de Leede (NED),v Afghanistan,3,0.0
+79,BFW de Leede (NED),v Australia,119,2.0
+80,BFW de Leede (NED),v Bangladesh,42,2.0
+81,BFW de Leede (NED),v England,84,3.0
+82,BFW de Leede (NED),v India,94,2.0
+83,BFW de Leede (NED),v New Zealand,82,1.0
+84,BFW de Leede (NED),v Pakistan,129,4.0
+85,BFW de Leede (NED),v South Africa,38,2.0
+86,BFW de Leede (NED),v Sri Lanka,35,0.0
+87,BKG Mendis (SL),v Afghanistan,39,0.0
+88,BKG Mendis (SL),v Australia,9,0.0
+89,BKG Mendis (SL),v Bangladesh,19,0.0
+90,BKG Mendis (SL),v England,11,0.0
+91,BKG Mendis (SL),v India,1,0.0
+92,BKG Mendis (SL),v Netherlands,11,0.0
+93,BKG Mendis (SL),v New Zealand,6,0.0
+94,BKG Mendis (SL),v Pakistan,122,0.0
+95,BKG Mendis (SL),v South Africa,76,0.0
+96,Babar Azam (PAK),v Afghanistan,74,0.0
+97,Babar Azam (PAK),v Australia,18,0.0
+98,Babar Azam (PAK),v Bangladesh,9,0.0
+99,Babar Azam (PAK),v England,38,0.0
+100,Babar Azam (PAK),v India,50,0.0
+101,Babar Azam (PAK),v Netherlands,5,0.0
+102,Babar Azam (PAK),v New Zealand,66,0.0
+103,Babar Azam (PAK),v South Africa,50,0.0
+104,Babar Azam (PAK),v Sri Lanka,10,0.0
+105,C Green (AUS),v England,47,0.0
+106,C Green (AUS),v India,19,0.0
+107,C Green (AUS),v Netherlands,8,0.0
+108,C Karunaratne (SL),v Australia,17,0.0
+109,C Karunaratne (SL),v Netherlands,58,0.0
+110,C Karunaratne (SL),v New Zealand,6,0.0
+111,CAK Rajitha (SL),v Afghanistan,53,1.0
+112,CAK Rajitha (SL),v Bangladesh,47,0.0
+113,CAK Rajitha (SL),v England,36,2.0
+114,CAK Rajitha (SL),v India,79,0.0
+115,CAK Rajitha (SL),v Netherlands,50,4.0
+116,CAK Rajitha (SL),v South Africa,123,1.0
+117,CBRLS Kumara (SL),v Australia,51,0.0
+118,CBRLS Kumara (SL),v England,35,3.0
+119,CN Ackermann (NED),v Afghanistan,41,0.0
+120,CN Ackermann (NED),v Australia,29,0.0
+121,CN Ackermann (NED),v Bangladesh,40,1.0
+122,CN Ackermann (NED),v England,31,0.0
+123,CN Ackermann (NED),v India,60,0.0
+124,CN Ackermann (NED),v New Zealand,97,0.0
+125,CN Ackermann (NED),v Pakistan,56,2.0
+126,CN Ackermann (NED),v South Africa,28,1.0
+127,CN Ackermann (NED),v Sri Lanka,68,1.0
+128,CR Woakes (ENG),v Afghanistan,50,0.0
+129,CR Woakes (ENG),v Australia,86,4.0
+130,CR Woakes (ENG),v Bangladesh,63,2.0
+131,CR Woakes (ENG),v India,43,2.0
+132,CR Woakes (ENG),v Netherlands,70,1.0
+133,CR Woakes (ENG),v New Zealand,56,0.0
+134,CR Woakes (ENG),v Pakistan,31,1.0
+135,CR Woakes (ENG),v Sri Lanka,30,0.0
+136,D Madushanka (SL),v Afghanistan,48,2.0
+137,D Madushanka (SL),v Australia,38,3.0
+138,D Madushanka (SL),v Bangladesh,69,3.0
+139,D Madushanka (SL),v England,37,0.0
+140,D Madushanka (SL),v India,85,5.0
+141,D Madushanka (SL),v Netherlands,49,4.0
+142,D Madushanka (SL),v New Zealand,77,0.0
+143,D Madushanka (SL),v Pakistan,60,2.0
+144,D Madushanka (SL),v South Africa,90,2.0
+145,DA Miller (SA),v Afghanistan,24,0.0
+146,DA Miller (SA),v Australia,118,0.0
+147,DA Miller (SA),v Bangladesh,34,0.0
+148,DA Miller (SA),v England,5,0.0
+149,DA Miller (SA),v India,11,0.0
+150,DA Miller (SA),v Netherlands,43,0.0
+151,DA Miller (SA),v New Zealand,53,0.0
+152,DA Miller (SA),v Pakistan,29,0.0
+153,DA Miller (SA),v Sri Lanka,39,0.0
+154,DA Warner (AUS),v Afghanistan,18,0.0
+155,DA Warner (AUS),v Bangladesh,53,0.0
+156,DA Warner (AUS),v England,15,0.0
+157,DA Warner (AUS),v India,41,0.0
+158,DA Warner (AUS),v Netherlands,104,0.0
+159,DA Warner (AUS),v New Zealand,81,0.0
+160,DA Warner (AUS),v Pakistan,163,0.0
+161,DA Warner (AUS),v South Africa,42,0.0
+162,DA Warner (AUS),v Sri Lanka,11,0.0
+163,DJ Malan (ENG),v Afghanistan,32,0.0
+164,DJ Malan (ENG),v Australia,50,0.0
+165,DJ Malan (ENG),v Bangladesh,140,0.0
+166,DJ Malan (ENG),v India,16,0.0
+167,DJ Malan (ENG),v Netherlands,87,0.0
+168,DJ Malan (ENG),v New Zealand,14,0.0
+169,DJ Malan (ENG),v Pakistan,31,0.0
+170,DJ Malan (ENG),v South Africa,6,0.0
+171,DJ Malan (ENG),v Sri Lanka,28,0.0
+172,DJ Mitchell (NZ),v Afghanistan,1,0.0
+173,DJ Mitchell (NZ),v Australia,54,0.0
+174,DJ Mitchell (NZ),v Bangladesh,100,0.0
+175,DJ Mitchell (NZ),v India,264,0.0
+176,DJ Mitchell (NZ),v Netherlands,48,0.0
+177,DJ Mitchell (NZ),v Pakistan,30,0.0
+178,DJ Mitchell (NZ),v South Africa,24,0.0
+179,DJ Mitchell (NZ),v Sri Lanka,43,0.0
+180,DJ Willey (ENG),v Australia,63,1.0
+181,DJ Willey (ENG),v India,61,3.0
+182,DJ Willey (ENG),v Netherlands,25,2.0
+183,DJ Willey (ENG),v Pakistan,71,3.0
+184,DJ Willey (ENG),v South Africa,73,0.0
+185,DJ Willey (ENG),v Sri Lanka,44,2.0
+186,DM de Silva (SL),v Afghanistan,35,0.0
+187,DM de Silva (SL),v Australia,20,0.0
+188,DM de Silva (SL),v Bangladesh,54,0.0
+189,DM de Silva (SL),v England,10,0.0
+190,DM de Silva (SL),v Netherlands,43,0.0
+191,DM de Silva (SL),v New Zealand,41,0.0
+192,DM de Silva (SL),v Pakistan,61,0.0
+193,DM de Silva (SL),v South Africa,50,0.0
+194,DN Wellalage (SL),v Australia,55,1.0
+195,DN Wellalage (SL),v Pakistan,72,0.0
+196,DN Wellalage (SL),v South Africa,81,1.0
+197,DP Conway (NZ),v Afghanistan,20,0.0
+198,DP Conway (NZ),v Australia,28,0.0
+199,DP Conway (NZ),v Bangladesh,45,0.0
+200,DP Conway (NZ),v England,152,0.0
+201,DP Conway (NZ),v India,13,0.0
+202,DP Conway (NZ),v Netherlands,32,0.0
+203,DP Conway (NZ),v Pakistan,35,0.0
+204,DP Conway (NZ),v South Africa,2,0.0
+205,DP Conway (NZ),v Sri Lanka,45,0.0
+206,FDM Karunaratne (SL),v Afghanistan,15,0.0
+207,FDM Karunaratne (SL),v India,0,0.0
+208,Fakhar Zaman (PAK),v Bangladesh,81,0.0
+209,Fakhar Zaman (PAK),v England,1,0.0
+210,Fakhar Zaman (PAK),v Netherlands,12,0.0
+211,Fakhar Zaman (PAK),v New Zealand,126,0.0
+212,Fazalhaq Farooqi (AFG),v Bangladesh,19,1.0
+213,Fazalhaq Farooqi (AFG),v England,52,1.0
+214,Fazalhaq Farooqi (AFG),v India,50,0.0
+215,Fazalhaq Farooqi (AFG),v Netherlands,36,0.0
+216,Fazalhaq Farooqi (AFG),v New Zealand,39,0.0
+217,Fazalhaq Farooqi (AFG),v Sri Lanka,34,4.0
+218,G Coetzee (SA),v Afghanistan,44,4.0
+219,G Coetzee (SA),v Australia,66,2.0
+220,G Coetzee (SA),v Bangladesh,62,3.0
+221,G Coetzee (SA),v England,38,3.0
+222,G Coetzee (SA),v Netherlands,79,1.0
+223,G Coetzee (SA),v New Zealand,41,2.0
+224,G Coetzee (SA),v Pakistan,52,2.0
+225,G Coetzee (SA),v Sri Lanka,68,3.0
+226,GD Phillips (NZ),v Afghanistan,84,0.0
+227,GD Phillips (NZ),v Australia,49,3.0
+228,GD Phillips (NZ),v Bangladesh,29,1.0
+229,GD Phillips (NZ),v England,17,2.0
+230,GD Phillips (NZ),v India,109,0.0
+231,GD Phillips (NZ),v Netherlands,15,0.0
+232,GD Phillips (NZ),v Pakistan,83,0.0
+233,GD Phillips (NZ),v South Africa,112,0.0
+234,GD Phillips (NZ),v Sri Lanka,20,0.0
+235,GJ Maxwell (AUS),v Afghanistan,256,1.0
+236,GJ Maxwell (AUS),v India,48,0.0
+237,GJ Maxwell (AUS),v Netherlands,106,0.0
+238,GJ Maxwell (AUS),v New Zealand,103,1.0
+239,GJ Maxwell (AUS),v Pakistan,40,0.0
+240,GJ Maxwell (AUS),v South Africa,73,2.0
+241,GJ Maxwell (AUS),v Sri Lanka,67,1.0
+242,H Klaasen (SA),v Afghanistan,10,0.0
+243,H Klaasen (SA),v Australia,76,0.0
+244,H Klaasen (SA),v Bangladesh,90,0.0
+245,H Klaasen (SA),v England,109,0.0
+246,H Klaasen (SA),v India,1,0.0
+247,H Klaasen (SA),v Netherlands,28,0.0
+248,H Klaasen (SA),v New Zealand,15,0.0
+249,H Klaasen (SA),v Pakistan,12,0.0
+250,H Klaasen (SA),v Sri Lanka,32,0.0
+251,HC Brook (ENG),v Afghanistan,66,0.0
+252,HC Brook (ENG),v Bangladesh,20,0.0
+253,HC Brook (ENG),v Netherlands,11,0.0
+254,HC Brook (ENG),v New Zealand,25,0.0
+255,HC Brook (ENG),v Pakistan,30,0.0
+256,HC Brook (ENG),v South Africa,17,0.0
+257,HE van der Dussen (SA),v Afghanistan,76,0.0
+258,HE van der Dussen (SA),v Australia,32,0.0
+259,HE van der Dussen (SA),v Bangladesh,1,0.0
+260,HE van der Dussen (SA),v England,60,0.0
+261,HE van der Dussen (SA),v India,13,0.0
+262,HE van der Dussen (SA),v Netherlands,4,0.0
+263,HE van der Dussen (SA),v New Zealand,133,0.0
+264,HE van der Dussen (SA),v Pakistan,21,0.0
+265,HE van der Dussen (SA),v Sri Lanka,108,0.0
+266,HH Pandya (IND),v Afghanistan,43,2.0
+267,HH Pandya (IND),v Australia,39,1.0
+268,HH Pandya (IND),v Bangladesh,8,0.0
+269,HH Pandya (IND),v Pakistan,34,2.0
+270,Haris Rauf (PAK),v Afghanistan,53,0.0
+271,Haris Rauf (PAK),v Australia,83,3.0
+272,Haris Rauf (PAK),v Bangladesh,36,2.0
+273,Haris Rauf (PAK),v England,99,3.0
+274,Haris Rauf (PAK),v India,45,0.0
+275,Haris Rauf (PAK),v Netherlands,59,3.0
+276,Haris Rauf (PAK),v New Zealand,85,1.0
+277,Haris Rauf (PAK),v South Africa,62,2.0
+278,Haris Rauf (PAK),v Sri Lanka,64,2.0
+279,Hasan Ali (PAK),v Afghanistan,44,1.0
+280,Hasan Ali (PAK),v Australia,65,0.0
+281,Hasan Ali (PAK),v India,46,1.0
+282,Hasan Ali (PAK),v Netherlands,33,2.0
+283,Hasan Ali (PAK),v New Zealand,82,1.0
+284,Hasan Ali (PAK),v Sri Lanka,71,4.0
+285,Hasan Mahmud (BAN),v India,65,1.0
+286,Hasan Mahmud (BAN),v South Africa,82,2.0
+287,Hashmatullah Shahidi (AFG),v Australia,26,0.0
+288,Hashmatullah Shahidi (AFG),v Bangladesh,18,0.0
+289,Hashmatullah Shahidi (AFG),v England,14,0.0
+290,Hashmatullah Shahidi (AFG),v India,80,0.0
+291,Hashmatullah Shahidi (AFG),v Netherlands,56,0.0
+292,Hashmatullah Shahidi (AFG),v New Zealand,8,0.0
+293,Hashmatullah Shahidi (AFG),v Pakistan,48,0.0
+294,Hashmatullah Shahidi (AFG),v South Africa,2,0.0
+295,Hashmatullah Shahidi (AFG),v Sri Lanka,58,0.0
+296,IS Sodhi (NZ),v Pakistan,44,0.0
+297,Ibrahim Zadran (AFG),v Australia,129,0.0
+298,Ibrahim Zadran (AFG),v Bangladesh,22,0.0
+299,Ibrahim Zadran (AFG),v England,28,0.0
+300,Ibrahim Zadran (AFG),v India,22,0.0
+301,Ibrahim Zadran (AFG),v Netherlands,20,0.0
+302,Ibrahim Zadran (AFG),v New Zealand,14,0.0
+303,Ibrahim Zadran (AFG),v Pakistan,87,0.0
+304,Ibrahim Zadran (AFG),v South Africa,15,0.0
+305,Ibrahim Zadran (AFG),v Sri Lanka,39,0.0
+306,Iftikhar Ahmed (PAK),v Afghanistan,67,0.0
+307,Iftikhar Ahmed (PAK),v Australia,63,0.0
+308,Iftikhar Ahmed (PAK),v Bangladesh,61,1.0
+309,Iftikhar Ahmed (PAK),v England,41,1.0
+310,Iftikhar Ahmed (PAK),v India,4,0.0
+311,Iftikhar Ahmed (PAK),v Netherlands,25,1.0
+312,Iftikhar Ahmed (PAK),v New Zealand,55,1.0
+313,Iftikhar Ahmed (PAK),v South Africa,44,0.0
+314,Iftikhar Ahmed (PAK),v Sri Lanka,44,0.0
+315,Ikram Alikhil (AFG),v England,58,0.0
+316,Ikram Alikhil (AFG),v New Zealand,19,0.0
+317,Ikram Alikhil (AFG),v South Africa,12,0.0
+318,Imam-ul-Haq (PAK),v Afghanistan,17,0.0
+319,Imam-ul-Haq (PAK),v Australia,70,0.0
+320,Imam-ul-Haq (PAK),v India,36,0.0
+321,Imam-ul-Haq (PAK),v Netherlands,15,0.0
+322,Imam-ul-Haq (PAK),v South Africa,12,0.0
+323,Imam-ul-Haq (PAK),v Sri Lanka,12,0.0
+324,Ishan Kishan (IND),v Afghanistan,47,0.0
+325,Ishan Kishan (IND),v Australia,0,0.0
+326,JC Buttler (ENG),v Afghanistan,9,0.0
+327,JC Buttler (ENG),v Australia,1,0.0
+328,JC Buttler (ENG),v Bangladesh,20,0.0
+329,JC Buttler (ENG),v India,10,0.0
+330,JC Buttler (ENG),v Netherlands,5,0.0
+331,JC Buttler (ENG),v New Zealand,43,0.0
+332,JC Buttler (ENG),v Pakistan,27,0.0
+333,JC Buttler (ENG),v South Africa,15,0.0
+334,JC Buttler (ENG),v Sri Lanka,8,0.0
+335,JDS Neesham (NZ),v Australia,90,1.0
+336,JDS Neesham (NZ),v England,56,0.0
+337,JDS Neesham (NZ),v South Africa,69,1.0
+338,JE Root (ENG),v Afghanistan,30,1.0
+339,JE Root (ENG),v Australia,13,0.0
+340,JE Root (ENG),v Bangladesh,82,0.0
+341,JE Root (ENG),v India,0,0.0
+342,JE Root (ENG),v Netherlands,28,0.0
+343,JE Root (ENG),v New Zealand,77,0.0
+344,JE Root (ENG),v Pakistan,60,0.0
+345,JE Root (ENG),v South Africa,50,0.0
+346,JE Root (ENG),v Sri Lanka,3,0.0
+347,JJ Bumrah (IND),v Afghanistan,39,4.0
+348,JJ Bumrah (IND),v Australia,35,2.0
+349,JJ Bumrah (IND),v Bangladesh,41,2.0
+350,JJ Bumrah (IND),v England,48,3.0
+351,JJ Bumrah (IND),v Netherlands,33,2.0
+352,JJ Bumrah (IND),v New Zealand,109,2.0
+353,JJ Bumrah (IND),v Pakistan,19,2.0
+354,JJ Bumrah (IND),v South Africa,14,0.0
+355,JJ Bumrah (IND),v Sri Lanka,9,1.0
+356,JM Bairstow (ENG),v Afghanistan,2,0.0
+357,JM Bairstow (ENG),v Australia,0,0.0
+358,JM Bairstow (ENG),v Bangladesh,52,0.0
+359,JM Bairstow (ENG),v India,14,0.0
+360,JM Bairstow (ENG),v Netherlands,15,0.0
+361,JM Bairstow (ENG),v New Zealand,33,0.0
+362,JM Bairstow (ENG),v Pakistan,59,0.0
+363,JM Bairstow (ENG),v South Africa,10,0.0
+364,JM Bairstow (ENG),v Sri Lanka,30,0.0
+365,JP Inglis (AUS),v Afghanistan,0,0.0
+366,JP Inglis (AUS),v England,3,0.0
+367,JP Inglis (AUS),v Netherlands,14,0.0
+368,JP Inglis (AUS),v New Zealand,38,0.0
+369,JP Inglis (AUS),v Pakistan,13,0.0
+370,JP Inglis (AUS),v South Africa,33,0.0
+371,JP Inglis (AUS),v Sri Lanka,58,0.0
+372,JR Hazlewood (AUS),v Afghanistan,39,2.0
+373,JR Hazlewood (AUS),v Bangladesh,21,0.0
+374,JR Hazlewood (AUS),v England,50,2.0
+375,JR Hazlewood (AUS),v India,39,3.0
+376,JR Hazlewood (AUS),v Netherlands,27,1.0
+377,JR Hazlewood (AUS),v New Zealand,70,2.0
+378,JR Hazlewood (AUS),v Pakistan,37,1.0
+379,JR Hazlewood (AUS),v South Africa,74,3.0
+380,JR Hazlewood (AUS),v Sri Lanka,36,0.0
+381,K Rabada (SA),v Afghanistan,40,0.0
+382,K Rabada (SA),v Australia,84,4.0
+383,K Rabada (SA),v Bangladesh,42,2.0
+384,K Rabada (SA),v England,38,1.0
+385,K Rabada (SA),v India,54,1.0
+386,K Rabada (SA),v Netherlands,65,2.0
+387,K Rabada (SA),v New Zealand,16,1.0
+388,K Rabada (SA),v Sri Lanka,50,2.0
+389,KA Maharaj (SA),v Afghanistan,25,2.0
+390,KA Maharaj (SA),v Australia,58,3.0
+391,KA Maharaj (SA),v Bangladesh,32,1.0
+392,KA Maharaj (SA),v England,28,1.0
+393,KA Maharaj (SA),v India,37,1.0
+394,KA Maharaj (SA),v Netherlands,78,1.0
+395,KA Maharaj (SA),v New Zealand,46,4.0
+396,KA Maharaj (SA),v Pakistan,63,0.0
+397,KA Maharaj (SA),v Sri Lanka,62,2.0
+398,KIC Asalanka (SL),v Afghanistan,22,0.0
+399,KIC Asalanka (SL),v Australia,25,0.0
+400,KIC Asalanka (SL),v Bangladesh,108,0.0
+401,KIC Asalanka (SL),v India,1,0.0
+402,KIC Asalanka (SL),v Netherlands,44,0.0
+403,KIC Asalanka (SL),v New Zealand,8,0.0
+404,KIC Asalanka (SL),v Pakistan,11,0.0
+405,KIC Asalanka (SL),v South Africa,79,0.0
+406,KL Rahul (IND),v Australia,97,0.0
+407,KL Rahul (IND),v Bangladesh,34,0.0
+408,KL Rahul (IND),v England,39,0.0
+409,KL Rahul (IND),v Netherlands,102,0.0
+410,KL Rahul (IND),v New Zealand,66,0.0
+411,KL Rahul (IND),v Pakistan,19,0.0
+412,KL Rahul (IND),v South Africa,8,0.0
+413,KL Rahul (IND),v Sri Lanka,21,0.0
+414,KS Williamson (NZ),v Bangladesh,78,0.0
+415,KS Williamson (NZ),v India,69,0.0
+416,KS Williamson (NZ),v Pakistan,95,0.0
+417,KS Williamson (NZ),v Sri Lanka,14,0.0
+418,Kuldeep Yadav (IND),v Afghanistan,40,1.0
+419,Kuldeep Yadav (IND),v Australia,42,2.0
+420,Kuldeep Yadav (IND),v Bangladesh,47,1.0
+421,Kuldeep Yadav (IND),v England,33,2.0
+422,Kuldeep Yadav (IND),v Netherlands,41,2.0
+423,Kuldeep Yadav (IND),v New Zealand,129,3.0
+424,Kuldeep Yadav (IND),v Pakistan,35,2.0
+425,Kuldeep Yadav (IND),v South Africa,7,2.0
+426,Kuldeep Yadav (IND),v Sri Lanka,3,0.0
+427,L Ngidi (SA),v Afghanistan,69,2.0
+428,L Ngidi (SA),v Australia,18,1.0
+429,L Ngidi (SA),v England,26,2.0
+430,L Ngidi (SA),v India,63,1.0
+431,L Ngidi (SA),v Netherlands,64,2.0
+432,L Ngidi (SA),v New Zealand,28,0.0
+433,L Ngidi (SA),v Pakistan,49,1.0
+434,L Ngidi (SA),v Sri Lanka,49,1.0
+435,LB Williams (SA),v Bangladesh,56,2.0
+436,LH Ferguson (NZ),v Afghanistan,19,3.0
+437,LH Ferguson (NZ),v Australia,38,0.0
+438,LH Ferguson (NZ),v Bangladesh,49,3.0
+439,LH Ferguson (NZ),v India,135,2.0
+440,LH Ferguson (NZ),v Netherlands,32,0.0
+441,LH Ferguson (NZ),v Sri Lanka,35,2.0
+442,LS Livingstone (ENG),v Afghanistan,43,1.0
+443,LS Livingstone (ENG),v Australia,44,1.0
+444,LS Livingstone (ENG),v Bangladesh,13,1.0
+445,LS Livingstone (ENG),v India,56,0.0
+446,LS Livingstone (ENG),v New Zealand,44,0.0
+447,LS Livingstone (ENG),v Sri Lanka,18,0.0
+448,LV van Beek (NED),v Afghanistan,32,1.0
+449,LV van Beek (NED),v Australia,74,4.0
+450,LV van Beek (NED),v Bangladesh,53,1.0
+451,LV van Beek (NED),v England,90,2.0
+452,LV van Beek (NED),v India,123,0.0
+453,LV van Beek (NED),v Pakistan,58,1.0
+454,LV van Beek (NED),v South Africa,70,3.0
+455,LV van Beek (NED),v Sri Lanka,116,0.0
+456,Litton Das (BAN),v Afghanistan,13,0.0
+457,Litton Das (BAN),v Australia,36,0.0
+458,Litton Das (BAN),v England,76,0.0
+459,Litton Das (BAN),v India,66,0.0
+460,Litton Das (BAN),v Netherlands,3,0.0
+461,Litton Das (BAN),v New Zealand,0,0.0
+462,Litton Das (BAN),v Pakistan,45,0.0
+463,Litton Das (BAN),v South Africa,22,0.0
+464,Litton Das (BAN),v Sri Lanka,23,0.0
+465,M Jansen (SA),v Australia,115,2.0
+466,M Jansen (SA),v Bangladesh,40,2.0
+467,M Jansen (SA),v England,110,2.0
+468,M Jansen (SA),v India,108,1.0
+469,M Jansen (SA),v Netherlands,36,2.0
+470,M Jansen (SA),v New Zealand,31,3.0
+471,M Jansen (SA),v Pakistan,63,3.0
+472,M Jansen (SA),v Sri Lanka,104,2.0
+473,M Labuschagne (AUS),v Afghanistan,14,0.0
+474,M Labuschagne (AUS),v England,71,0.0
+475,M Labuschagne (AUS),v India,27,0.0
+476,M Labuschagne (AUS),v Netherlands,62,0.0
+477,M Labuschagne (AUS),v New Zealand,18,0.0
+478,M Labuschagne (AUS),v Pakistan,8,0.0
+479,M Labuschagne (AUS),v South Africa,64,0.0
+480,M Labuschagne (AUS),v Sri Lanka,40,0.0
+481,M Pathirana (SL),v Pakistan,91,1.0
+482,M Pathirana (SL),v South Africa,100,1.0
+483,M Theekshana (SL),v Afghanistan,84,0.0
+484,M Theekshana (SL),v Australia,49,0.0
+485,M Theekshana (SL),v Bangladesh,65,2.0
+486,M Theekshana (SL),v England,21,1.0
+487,M Theekshana (SL),v India,79,0.0
+488,M Theekshana (SL),v Netherlands,44,1.0
+489,M Theekshana (SL),v New Zealand,81,1.0
+490,M Theekshana (SL),v Pakistan,59,1.0
+491,MA Starc (AUS),v Afghanistan,73,1.0
+492,MA Starc (AUS),v England,76,2.0
+493,MA Starc (AUS),v India,59,1.0
+494,MA Starc (AUS),v Netherlands,22,1.0
+495,MA Starc (AUS),v New Zealand,90,0.0
+496,MA Starc (AUS),v Pakistan,67,1.0
+497,MA Starc (AUS),v South Africa,130,5.0
+498,MA Starc (AUS),v Sri Lanka,43,2.0
+499,MA Wood (ENG),v Afghanistan,68,2.0
+500,MA Wood (ENG),v Australia,70,2.0
+501,MA Wood (ENG),v Bangladesh,35,1.0
+502,MA Wood (ENG),v India,46,1.0
+503,MA Wood (ENG),v New Zealand,68,0.0
+504,MA Wood (ENG),v South Africa,119,0.0
+505,MA Wood (ENG),v Sri Lanka,28,0.0
+506,MADI Hemantha (SL),v India,52,0.0
+507,MADI Hemantha (SL),v Netherlands,46,0.0
+508,MD Shanaka (SL),v Pakistan,40,0.0
+509,MD Shanaka (SL),v South Africa,104,0.0
+510,MDKJ Perera (SL),v Australia,78,0.0
+511,MDKJ Perera (SL),v Bangladesh,4,0.0
+512,MDKJ Perera (SL),v England,4,0.0
+513,MDKJ Perera (SL),v Netherlands,5,0.0
+514,MDKJ Perera (SL),v New Zealand,51,0.0
+515,MDKJ Perera (SL),v Pakistan,0,0.0
+516,MDKJ Perera (SL),v South Africa,7,0.0
+517,MJ Henry (NZ),v Afghanistan,16,1.0
+518,MJ Henry (NZ),v Australia,76,1.0
+519,MJ Henry (NZ),v Bangladesh,58,2.0
+520,MJ Henry (NZ),v England,48,3.0
+521,MJ Henry (NZ),v India,55,1.0
+522,MJ Henry (NZ),v Netherlands,50,3.0
+523,MJ Henry (NZ),v South Africa,31,0.0
+524,MJ Santner (NZ),v Afghanistan,46,3.0
+525,MJ Santner (NZ),v Australia,97,2.0
+526,MJ Santner (NZ),v Bangladesh,31,1.0
+527,MJ Santner (NZ),v England,37,2.0
+528,MJ Santner (NZ),v India,98,1.0
+529,MJ Santner (NZ),v Netherlands,95,5.0
+530,MJ Santner (NZ),v Pakistan,61,0.0
+531,MJ Santner (NZ),v South Africa,65,0.0
+532,MJ Santner (NZ),v Sri Lanka,22,2.0
+533,MM Ali (ENG),v Australia,70,0.0
+534,MM Ali (ENG),v India,52,0.0
+535,MM Ali (ENG),v Netherlands,46,3.0
+536,MM Ali (ENG),v New Zealand,71,0.0
+537,MM Ali (ENG),v Pakistan,68,2.0
+538,MM Ali (ENG),v Sri Lanka,36,0.0
+539,MP O'Dowd (NED),v Afghanistan,42,0.0
+540,MP O'Dowd (NED),v Australia,6,0.0
+541,MP O'Dowd (NED),v Bangladesh,0,0.0
+542,MP O'Dowd (NED),v England,5,0.0
+543,MP O'Dowd (NED),v India,30,0.0
+544,MP O'Dowd (NED),v New Zealand,16,0.0
+545,MP O'Dowd (NED),v Pakistan,5,0.0
+546,MP O'Dowd (NED),v South Africa,18,0.0
+547,MP O'Dowd (NED),v Sri Lanka,16,0.0
+548,MP Stoinis (AUS),v Afghanistan,8,0.0
+549,MP Stoinis (AUS),v Bangladesh,45,1.0
+550,MP Stoinis (AUS),v England,69,1.0
+551,MP Stoinis (AUS),v Pakistan,61,2.0
+552,MP Stoinis (AUS),v South Africa,16,0.0
+553,MP Stoinis (AUS),v Sri Lanka,31,0.0
+554,MR Marsh (AUS),v Afghanistan,24,0.0
+555,MR Marsh (AUS),v Bangladesh,225,0.0
+556,MR Marsh (AUS),v India,0,0.0
+557,MR Marsh (AUS),v Netherlands,28,2.0
+558,MR Marsh (AUS),v New Zealand,54,0.0
+559,MR Marsh (AUS),v Pakistan,121,0.0
+560,MR Marsh (AUS),v South Africa,13,0.0
+561,MR Marsh (AUS),v Sri Lanka,52,0.0
+562,MS Chapman (NZ),v Afghanistan,25,0.0
+563,MS Chapman (NZ),v India,8,0.0
+564,MS Chapman (NZ),v Netherlands,5,0.0
+565,MS Chapman (NZ),v Pakistan,39,0.0
+566,MS Chapman (NZ),v Sri Lanka,7,0.0
+567,Mahedi Hasan (BAN),v Australia,40,0.0
+568,Mahedi Hasan (BAN),v England,85,4.0
+569,Mahedi Hasan (BAN),v Netherlands,57,2.0
+570,Mahmudullah (BAN),v Afghanistan,7,0.0
+571,Mahmudullah (BAN),v Australia,32,0.0
+572,Mahmudullah (BAN),v India,52,0.0
+573,Mahmudullah (BAN),v Netherlands,20,0.0
+574,Mahmudullah (BAN),v New Zealand,41,0.0
+575,Mahmudullah (BAN),v Pakistan,56,0.0
+576,Mahmudullah (BAN),v South Africa,131,0.0
+577,Mahmudullah (BAN),v Sri Lanka,22,0.0
+578,Mehidy Hasan Miraz (BAN),v Afghanistan,82,3.0
+579,Mehidy Hasan Miraz (BAN),v Australia,76,0.0
+580,Mehidy Hasan Miraz (BAN),v England,63,0.0
+581,Mehidy Hasan Miraz (BAN),v India,50,2.0
+582,Mehidy Hasan Miraz (BAN),v Netherlands,52,0.0
+583,Mehidy Hasan Miraz (BAN),v New Zealand,88,0.0
+584,Mehidy Hasan Miraz (BAN),v Pakistan,85,3.0
+585,Mehidy Hasan Miraz (BAN),v South Africa,55,1.0
+586,Mehidy Hasan Miraz (BAN),v Sri Lanka,52,1.0
+587,Mohammad Nabi (AFG),v Australia,32,0.0
+588,Mohammad Nabi (AFG),v Bangladesh,24,0.0
+589,Mohammad Nabi (AFG),v England,25,2.0
+590,Mohammad Nabi (AFG),v India,51,0.0
+591,Mohammad Nabi (AFG),v Netherlands,28,3.0
+592,Mohammad Nabi (AFG),v New Zealand,48,0.0
+593,Mohammad Nabi (AFG),v Pakistan,31,1.0
+594,Mohammad Nabi (AFG),v South Africa,37,2.0
+595,Mohammad Nabi (AFG),v Sri Lanka,33,0.0
+596,Mohammad Nawaz (3) (PAK),v Australia,57,0.0
+597,Mohammad Nawaz (3) (PAK),v India,51,0.0
+598,Mohammad Nawaz (3) (PAK),v Netherlands,70,1.0
+599,Mohammad Nawaz (3) (PAK),v South Africa,64,0.0
+600,Mohammad Nawaz (3) (PAK),v Sri Lanka,62,1.0
+601,Mohammad Rizwan (PAK),v Afghanistan,8,0.0
+602,Mohammad Rizwan (PAK),v Australia,46,0.0
+603,Mohammad Rizwan (PAK),v Bangladesh,26,0.0
+604,Mohammad Rizwan (PAK),v England,36,0.0
+605,Mohammad Rizwan (PAK),v India,49,0.0
+606,Mohammad Rizwan (PAK),v Netherlands,68,0.0
+607,Mohammad Rizwan (PAK),v South Africa,31,0.0
+608,Mohammad Rizwan (PAK),v Sri Lanka,131,0.0
+609,Mohammad Wasim (1) (PAK),v Bangladesh,31,3.0
+610,Mohammad Wasim (1) (PAK),v England,90,2.0
+611,Mohammad Wasim (1) (PAK),v New Zealand,60,3.0
+612,Mohammad Wasim (1) (PAK),v South Africa,57,2.0
+613,Mohammed Shami (IND),v England,23,4.0
+614,Mohammed Shami (IND),v Netherlands,41,0.0
+615,Mohammed Shami (IND),v New Zealand,112,12.0
+616,Mohammed Shami (IND),v South Africa,18,2.0
+617,Mohammed Shami (IND),v Sri Lanka,20,5.0
+618,Mohammed Siraj (IND),v Afghanistan,76,0.0
+619,Mohammed Siraj (IND),v Australia,26,1.0
+620,Mohammed Siraj (IND),v Bangladesh,60,2.0
+621,Mohammed Siraj (IND),v England,33,0.0
+622,Mohammed Siraj (IND),v Netherlands,29,2.0
+623,Mohammed Siraj (IND),v New Zealand,123,2.0
+624,Mohammed Siraj (IND),v Pakistan,50,2.0
+625,Mohammed Siraj (IND),v South Africa,11,1.0
+626,Mohammed Siraj (IND),v Sri Lanka,16,3.0
+627,Mujeeb Ur Rahman (AFG),v Australia,72,0.0
+628,Mujeeb Ur Rahman (AFG),v Bangladesh,31,0.0
+629,Mujeeb Ur Rahman (AFG),v England,79,3.0
+630,Mujeeb Ur Rahman (AFG),v India,74,0.0
+631,Mujeeb Ur Rahman (AFG),v Netherlands,40,1.0
+632,Mujeeb Ur Rahman (AFG),v New Zealand,61,1.0
+633,Mujeeb Ur Rahman (AFG),v Pakistan,55,0.0
+634,Mujeeb Ur Rahman (AFG),v South Africa,59,1.0
+635,Mujeeb Ur Rahman (AFG),v Sri Lanka,38,2.0
+636,Mushfiqur Rahim (BAN),v Afghanistan,2,0.0
+637,Mushfiqur Rahim (BAN),v Australia,21,0.0
+638,Mushfiqur Rahim (BAN),v England,51,0.0
+639,Mushfiqur Rahim (BAN),v India,38,0.0
+640,Mushfiqur Rahim (BAN),v Netherlands,1,0.0
+641,Mushfiqur Rahim (BAN),v New Zealand,66,0.0
+642,Mushfiqur Rahim (BAN),v Pakistan,5,0.0
+643,Mushfiqur Rahim (BAN),v South Africa,8,0.0
+644,Mushfiqur Rahim (BAN),v Sri Lanka,10,0.0
+645,Mustafizur Rahman (BAN),v Afghanistan,28,1.0
+646,Mustafizur Rahman (BAN),v Australia,76,1.0
+647,Mustafizur Rahman (BAN),v England,73,0.0
+648,Mustafizur Rahman (BAN),v India,30,0.0
+649,Mustafizur Rahman (BAN),v Netherlands,56,2.0
+650,Mustafizur Rahman (BAN),v New Zealand,40,1.0
+651,Mustafizur Rahman (BAN),v Pakistan,50,0.0
+652,Mustafizur Rahman (BAN),v South Africa,87,0.0
+653,Najibullah Zadran (AFG),v Bangladesh,5,0.0
+654,Najibullah Zadran (AFG),v India,2,0.0
+655,Najmul Hossain Shanto (BAN),v Afghanistan,59,0.0
+656,Najmul Hossain Shanto (BAN),v Australia,45,0.0
+657,Najmul Hossain Shanto (BAN),v England,0,0.0
+658,Najmul Hossain Shanto (BAN),v India,8,0.0
+659,Najmul Hossain Shanto (BAN),v Netherlands,9,0.0
+660,Najmul Hossain Shanto (BAN),v New Zealand,7,0.0
+661,Najmul Hossain Shanto (BAN),v Pakistan,9,0.0
+662,Najmul Hossain Shanto (BAN),v South Africa,0,0.0
+663,Najmul Hossain Shanto (BAN),v Sri Lanka,90,0.0
+664,Nasum Ahmed (BAN),v Australia,92,0.0
+665,Nasum Ahmed (BAN),v India,74,0.0
+666,Nasum Ahmed (BAN),v South Africa,46,0.0
+667,Naveen-ul-Haq (AFG),v Australia,47,2.0
+668,Naveen-ul-Haq (AFG),v Bangladesh,31,1.0
+669,Naveen-ul-Haq (AFG),v England,49,1.0
+670,Naveen-ul-Haq (AFG),v India,40,0.0
+671,Naveen-ul-Haq (AFG),v New Zealand,48,2.0
+672,Naveen-ul-Haq (AFG),v Pakistan,52,2.0
+673,Naveen-ul-Haq (AFG),v South Africa,54,0.0
+674,Naveen-ul-Haq (AFG),v Sri Lanka,47,0.0
+675,Noor Ahmad (AFG),v Australia,53,0.0
+676,Noor Ahmad (AFG),v Netherlands,31,2.0
+677,Noor Ahmad (AFG),v Pakistan,49,3.0
+678,Noor Ahmad (AFG),v South Africa,75,0.0
+679,P Nissanka (SL),v Afghanistan,46,0.0
+680,P Nissanka (SL),v Australia,61,0.0
+681,P Nissanka (SL),v Bangladesh,41,0.0
+682,P Nissanka (SL),v England,77,0.0
+683,P Nissanka (SL),v India,0,0.0
+684,P Nissanka (SL),v Netherlands,54,0.0
+685,P Nissanka (SL),v New Zealand,2,0.0
+686,P Nissanka (SL),v Pakistan,51,0.0
+687,P Nissanka (SL),v South Africa,0,0.0
+688,PA van Meekeren (NED),v Afghanistan,39,0.0
+689,PA van Meekeren (NED),v Australia,64,0.0
+690,PA van Meekeren (NED),v Bangladesh,23,4.0
+691,PA van Meekeren (NED),v England,61,1.0
+692,PA van Meekeren (NED),v India,93,1.0
+693,PA van Meekeren (NED),v New Zealand,63,2.0
+694,PA van Meekeren (NED),v Pakistan,47,1.0
+695,PA van Meekeren (NED),v South Africa,40,2.0
+696,PA van Meekeren (NED),v Sri Lanka,43,1.0
+697,PJ Cummins (AUS),v Afghanistan,59,0.0
+698,PJ Cummins (AUS),v Bangladesh,56,0.0
+699,PJ Cummins (AUS),v England,59,2.0
+700,PJ Cummins (AUS),v India,48,0.0
+701,PJ Cummins (AUS),v Netherlands,26,1.0
+702,PJ Cummins (AUS),v New Zealand,103,2.0
+703,PJ Cummins (AUS),v Pakistan,68,2.0
+704,PJ Cummins (AUS),v South Africa,158,4.0
+705,PJ Cummins (AUS),v Sri Lanka,32,2.0
+706,PVD Chameera (SL),v Afghanistan,52,0.0
+707,PVD Chameera (SL),v Bangladesh,58,0.0
+708,PVD Chameera (SL),v India,71,1.0
+709,PVD Chameera (SL),v New Zealand,21,1.0
+710,Q de Kock (SA),v Afghanistan,41,0.0
+711,Q de Kock (SA),v Australia,112,0.0
+712,Q de Kock (SA),v Bangladesh,174,0.0
+713,Q de Kock (SA),v England,4,0.0
+714,Q de Kock (SA),v India,5,0.0
+715,Q de Kock (SA),v Netherlands,20,0.0
+716,Q de Kock (SA),v New Zealand,114,0.0
+717,Q de Kock (SA),v Pakistan,24,0.0
+718,Q de Kock (SA),v Sri Lanka,100,0.0
+719,R Ashwin (IND),v Australia,34,1.0
+720,R Klein (NED),v New Zealand,49,0.0
+721,R Ravindra (NZ),v Afghanistan,66,1.0
+722,R Ravindra (NZ),v Australia,172,0.0
+723,R Ravindra (NZ),v Bangladesh,46,0.0
+724,R Ravindra (NZ),v England,199,1.0
+725,R Ravindra (NZ),v India,194,0.0
+726,R Ravindra (NZ),v Netherlands,97,1.0
+727,R Ravindra (NZ),v Pakistan,108,0.0
+728,R Ravindra (NZ),v South Africa,26,0.0
+729,R Ravindra (NZ),v Sri Lanka,63,2.0
+730,RA Jadeja (IND),v Afghanistan,38,0.0
+731,RA Jadeja (IND),v Australia,28,3.0
+732,RA Jadeja (IND),v Bangladesh,38,2.0
+733,RA Jadeja (IND),v England,24,1.0
+734,RA Jadeja (IND),v Netherlands,49,2.0
+735,RA Jadeja (IND),v New Zealand,150,0.0
+736,RA Jadeja (IND),v Pakistan,38,2.0
+737,RA Jadeja (IND),v South Africa,62,5.0
+738,RA Jadeja (IND),v Sri Lanka,39,1.0
+739,RE van der Merwe (NED),v Afghanistan,38,1.0
+740,RE van der Merwe (NED),v Australia,41,0.0
+741,RE van der Merwe (NED),v England,22,0.0
+742,RE van der Merwe (NED),v India,69,1.0
+743,RE van der Merwe (NED),v New Zealand,57,2.0
+744,RE van der Merwe (NED),v Pakistan,40,0.0
+745,RE van der Merwe (NED),v South Africa,63,2.0
+746,RE van der Merwe (NED),v Sri Lanka,49,0.0
+747,RG Sharma (IND),v Afghanistan,131,0.0
+748,RG Sharma (IND),v Australia,0,0.0
+749,RG Sharma (IND),v Bangladesh,48,0.0
+750,RG Sharma (IND),v England,87,0.0
+751,RG Sharma (IND),v Netherlands,68,1.0
+752,RG Sharma (IND),v New Zealand,93,0.0
+753,RG Sharma (IND),v Pakistan,86,0.0
+754,RG Sharma (IND),v South Africa,40,0.0
+755,RG Sharma (IND),v Sri Lanka,4,0.0
+756,RJW Topley (ENG),v Afghanistan,67,1.0
+757,RJW Topley (ENG),v Bangladesh,44,4.0
+758,RJW Topley (ENG),v South Africa,88,3.0
+759,RR Hendricks (SA),v Bangladesh,12,0.0
+760,RR Hendricks (SA),v England,85,0.0
+761,Rahmanullah Gurbaz (AFG),v Australia,21,0.0
+762,Rahmanullah Gurbaz (AFG),v Bangladesh,47,0.0
+763,Rahmanullah Gurbaz (AFG),v England,80,0.0
+764,Rahmanullah Gurbaz (AFG),v India,21,0.0
+765,Rahmanullah Gurbaz (AFG),v Netherlands,10,0.0
+766,Rahmanullah Gurbaz (AFG),v New Zealand,11,0.0
+767,Rahmanullah Gurbaz (AFG),v Pakistan,65,0.0
+768,Rahmanullah Gurbaz (AFG),v South Africa,25,0.0
+769,Rahmanullah Gurbaz (AFG),v Sri Lanka,0,0.0
+770,Rahmat Shah (AFG),v Australia,30,0.0
+771,Rahmat Shah (AFG),v Bangladesh,18,0.0
+772,Rahmat Shah (AFG),v England,3,0.0
+773,Rahmat Shah (AFG),v India,16,0.0
+774,Rahmat Shah (AFG),v Netherlands,52,0.0
+775,Rahmat Shah (AFG),v New Zealand,36,0.0
+776,Rahmat Shah (AFG),v Pakistan,77,0.0
+777,Rahmat Shah (AFG),v South Africa,38,0.0
+778,Rahmat Shah (AFG),v Sri Lanka,62,0.0
+779,Rashid Khan (AFG),v Australia,79,2.0
+780,Rashid Khan (AFG),v Bangladesh,57,0.0
+781,Rashid Khan (AFG),v England,60,3.0
+782,Rashid Khan (AFG),v India,73,2.0
+783,Rashid Khan (AFG),v Netherlands,31,0.0
+784,Rashid Khan (AFG),v New Zealand,51,1.0
+785,Rashid Khan (AFG),v Pakistan,41,0.0
+786,Rashid Khan (AFG),v South Africa,51,2.0
+787,Rashid Khan (AFG),v Sri Lanka,50,1.0
+788,S Samarawickrama (SL),v Afghanistan,36,0.0
+789,S Samarawickrama (SL),v Australia,8,0.0
+790,S Samarawickrama (SL),v Bangladesh,41,0.0
+791,S Samarawickrama (SL),v England,65,0.0
+792,S Samarawickrama (SL),v India,0,0.0
+793,S Samarawickrama (SL),v Netherlands,91,0.0
+794,S Samarawickrama (SL),v New Zealand,1,0.0
+795,S Samarawickrama (SL),v Pakistan,108,0.0
+796,S Samarawickrama (SL),v South Africa,23,0.0
+797,SA Abbott (AUS),v Bangladesh,61,2.0
+798,SA Edwards (NED),v Afghanistan,0,0.0
+799,SA Edwards (NED),v Australia,12,0.0
+800,SA Edwards (NED),v Bangladesh,68,0.0
+801,SA Edwards (NED),v England,38,0.0
+802,SA Edwards (NED),v India,17,0.0
+803,SA Edwards (NED),v New Zealand,30,0.0
+804,SA Edwards (NED),v Pakistan,0,0.0
+805,SA Edwards (NED),v South Africa,78,0.0
+806,SA Edwards (NED),v Sri Lanka,16,0.0
+807,SA Engelbrecht (NED),v Afghanistan,58,0.0
+808,SA Engelbrecht (NED),v Australia,11,0.0
+809,SA Engelbrecht (NED),v Bangladesh,35,0.0
+810,SA Engelbrecht (NED),v England,33,0.0
+811,SA Engelbrecht (NED),v India,45,0.0
+812,SA Engelbrecht (NED),v New Zealand,29,0.0
+813,SA Engelbrecht (NED),v South Africa,19,0.0
+814,SA Engelbrecht (NED),v Sri Lanka,70,0.0
+815,SA Yadav (IND),v England,49,0.0
+816,SA Yadav (IND),v Netherlands,19,0.0
+817,SA Yadav (IND),v New Zealand,2,0.0
+818,SA Yadav (IND),v South Africa,22,0.0
+819,SA Yadav (IND),v Sri Lanka,12,0.0
+820,SA Yadav(IND),v New Zealand,1,0.0
+821,SM Curran (ENG),v Afghanistan,56,0.0
+822,SM Curran (ENG),v Bangladesh,58,1.0
+823,SM Curran (ENG),v New Zealand,61,1.0
+824,SN Thakur (IND),v Afghanistan,31,1.0
+825,SN Thakur (IND),v Bangladesh,59,1.0
+826,SN Thakur (IND),v Pakistan,12,0.0
+827,SPD Smith (AUS),v Bangladesh,63,0.0
+828,SPD Smith (AUS),v England,44,0.0
+829,SPD Smith (AUS),v India,46,0.0
+830,SPD Smith (AUS),v Netherlands,71,0.0
+831,SPD Smith (AUS),v New Zealand,18,0.0
+832,SPD Smith (AUS),v Pakistan,7,0.0
+833,SPD Smith (AUS),v South Africa,49,0.0
+834,SPD Smith (AUS),v Sri Lanka,0,0.0
+835,SS Iyer (IND),v Afghanistan,25,0.0
+836,SS Iyer (IND),v Australia,0,0.0
+837,SS Iyer (IND),v Bangladesh,19,0.0
+838,SS Iyer (IND),v England,4,0.0
+839,SS Iyer (IND),v Netherlands,128,0.0
+840,SS Iyer (IND),v New Zealand,138,0.0
+841,SS Iyer (IND),v Pakistan,53,0.0
+842,SS Iyer (IND),v South Africa,77,0.0
+843,SS Iyer (IND),v Sri Lanka,82,0.0
+844,Saqib Zulfiqar (NED),v Afghanistan,28,1.0
+845,Saqib Zulfiqar (NED),v Pakistan,25,0.0
+846,Saud Shakeel (PAK),v Afghanistan,25,0.0
+847,Saud Shakeel (PAK),v Australia,30,0.0
+848,Saud Shakeel (PAK),v England,29,0.0
+849,Saud Shakeel (PAK),v India,6,0.0
+850,Saud Shakeel (PAK),v Netherlands,68,0.0
+851,Saud Shakeel (PAK),v South Africa,52,0.0
+852,Saud Shakeel (PAK),v Sri Lanka,31,0.0
+853,Shadab Khan (PAK),v Afghanistan,89,0.0
+854,Shadab Khan (PAK),v England,61,0.0
+855,Shadab Khan (PAK),v India,33,0.0
+856,Shadab Khan (PAK),v Netherlands,77,1.0
+857,Shadab Khan (PAK),v South Africa,43,0.0
+858,Shadab Khan (PAK),v Sri Lanka,55,1.0
+859,Shaheen Shah Afridi (PAK),v Afghanistan,61,1.0
+860,Shaheen Shah Afridi (PAK),v Australia,64,5.0
+861,Shaheen Shah Afridi (PAK),v Bangladesh,23,3.0
+862,Shaheen Shah Afridi (PAK),v England,97,2.0
+863,Shaheen Shah Afridi (PAK),v India,38,2.0
+864,Shaheen Shah Afridi (PAK),v Netherlands,50,1.0
+865,Shaheen Shah Afridi (PAK),v New Zealand,90,0.0
+866,Shaheen Shah Afridi (PAK),v South Africa,47,3.0
+867,Shaheen Shah Afridi (PAK),v Sri Lanka,66,1.0
+868,Shakib Al Hasan (BAN),v Afghanistan,44,3.0
+869,Shakib Al Hasan (BAN),v England,53,1.0
+870,Shakib Al Hasan (BAN),v Netherlands,42,1.0
+871,Shakib Al Hasan (BAN),v New Zealand,94,1.0
+872,Shakib Al Hasan (BAN),v Pakistan,73,0.0
+873,Shakib Al Hasan (BAN),v South Africa,70,1.0
+874,Shakib Al Hasan (BAN),v Sri Lanka,139,2.0
+875,Shariz Ahmad (NED),v Bangladesh,19,0.0
+876,Shoriful Islam (BAN),v Afghanistan,34,2.0
+877,Shoriful Islam (BAN),v England,87,3.0
+878,Shoriful Islam (BAN),v India,61,0.0
+879,Shoriful Islam (BAN),v Netherlands,51,2.0
+880,Shoriful Islam (BAN),v New Zealand,45,0.0
+881,Shoriful Islam (BAN),v Pakistan,26,0.0
+882,Shoriful Islam (BAN),v South Africa,82,1.0
+883,Shoriful Islam (BAN),v Sri Lanka,51,2.0
+884,Shubman Gill (IND),v Bangladesh,53,0.0
+885,Shubman Gill (IND),v England,9,0.0
+886,Shubman Gill (IND),v Netherlands,62,0.0
+887,Shubman Gill (IND),v New Zealand,106,0.0
+888,Shubman Gill (IND),v Pakistan,16,0.0
+889,Shubman Gill (IND),v South Africa,23,0.0
+890,Shubman Gill (IND),v Sri Lanka,92,0.0
+891,T Bavuma (SA),v Afghanistan,23,0.0
+892,T Bavuma (SA),v Australia,35,0.0
+893,T Bavuma (SA),v India,11,0.0
+894,T Bavuma (SA),v Netherlands,16,0.0
+895,T Bavuma (SA),v New Zealand,24,0.0
+896,T Bavuma (SA),v Pakistan,28,0.0
+897,T Bavuma (SA),v Sri Lanka,8,0.0
+898,T Shamsi (SA),v Australia,81,4.0
+899,T Shamsi (SA),v India,76,1.0
+900,T Shamsi (SA),v Pakistan,64,4.0
+901,TA Boult (NZ),v Afghanistan,18,2.0
+902,TA Boult (NZ),v Australia,87,3.0
+903,TA Boult (NZ),v Bangladesh,45,2.0
+904,TA Boult (NZ),v England,48,1.0
+905,TA Boult (NZ),v India,148,2.0
+906,TA Boult (NZ),v Netherlands,34,0.0
+907,TA Boult (NZ),v Pakistan,50,0.0
+908,TA Boult (NZ),v South Africa,58,1.0
+909,TA Boult (NZ),v Sri Lanka,37,3.0
+910,TG Southee (NZ),v India,109,3.0
+911,TG Southee (NZ),v Pakistan,27,1.0
+912,TG Southee (NZ),v South Africa,84,2.0
+913,TG Southee (NZ),v Sri Lanka,52,1.0
+914,TM Head (AUS),v Afghanistan,15,0.0
+915,TM Head (AUS),v Bangladesh,43,0.0
+916,TM Head (AUS),v England,39,0.0
+917,TM Head (AUS),v New Zealand,109,0.0
+918,TM Head (AUS),v South Africa,83,2.0
+919,TWM Latham (NZ),v Afghanistan,68,0.0
+920,TWM Latham (NZ),v Australia,21,0.0
+921,TWM Latham (NZ),v India,5,0.0
+922,TWM Latham (NZ),v Netherlands,53,0.0
+923,TWM Latham (NZ),v Pakistan,2,0.0
+924,TWM Latham (NZ),v South Africa,4,0.0
+925,TWM Latham (NZ),v Sri Lanka,2,0.0
+926,Tanzid Hasan (BAN),v Afghanistan,5,0.0
+927,Tanzid Hasan (BAN),v Australia,36,0.0
+928,Tanzid Hasan (BAN),v England,1,0.0
+929,Tanzid Hasan (BAN),v India,51,0.0
+930,Tanzid Hasan (BAN),v Netherlands,15,0.0
+931,Tanzid Hasan (BAN),v New Zealand,16,0.0
+932,Tanzid Hasan (BAN),v Pakistan,0,0.0
+933,Tanzid Hasan (BAN),v South Africa,12,0.0
+934,Tanzid Hasan (BAN),v Sri Lanka,9,0.0
+935,Tanzim Hasan Sakib (BAN),v Sri Lanka,85,3.0
+936,Taskin Ahmed (BAN),v Afghanistan,32,1.0
+937,Taskin Ahmed (BAN),v Australia,61,1.0
+938,Taskin Ahmed (BAN),v England,53,1.0
+939,Taskin Ahmed (BAN),v Netherlands,54,2.0
+940,Taskin Ahmed (BAN),v New Zealand,73,0.0
+941,Taskin Ahmed (BAN),v Pakistan,42,0.0
+942,Taskin Ahmed (BAN),v Sri Lanka,39,0.0
+943,Towhid Hridoy (BAN),v Australia,74,0.0
+944,Towhid Hridoy (BAN),v England,39,0.0
+945,Towhid Hridoy (BAN),v India,16,0.0
+946,Towhid Hridoy (BAN),v New Zealand,13,0.0
+947,Towhid Hridoy (BAN),v Pakistan,7,0.0
+948,Towhid Hridoy (BAN),v Sri Lanka,15,0.0
+949,Usama Mir (PAK),v Afghanistan,55,0.0
+950,Usama Mir (PAK),v Australia,82,1.0
+951,Usama Mir (PAK),v Bangladesh,66,1.0
+952,Usama Mir (PAK),v South Africa,45,2.0
+953,V Kohli (IND),v Afghanistan,55,0.0
+954,V Kohli (IND),v Australia,85,0.0
+955,V Kohli (IND),v Bangladesh,105,0.0
+956,V Kohli (IND),v England,0,0.0
+957,V Kohli (IND),v Netherlands,64,1.0
+958,V Kohli (IND),v New Zealand,212,0.0
+959,V Kohli (IND),v Pakistan,16,0.0
+960,V Kohli (IND),v South Africa,101,0.0
+961,V Kohli (IND),v Sri Lanka,88,0.0
+962,Vikramjit Singh (NED),v Australia,52,0.0
+963,Vikramjit Singh (NED),v Bangladesh,3,0.0
+964,Vikramjit Singh (NED),v New Zealand,21,0.0
+965,Vikramjit Singh (NED),v Pakistan,68,0.0
+966,Vikramjit Singh (NED),v South Africa,2,0.0
+967,Vikramjit Singh (NED),v Sri Lanka,4,0.0
+968,W Barresi (NED),v Afghanistan,1,0.0
+969,W Barresi (NED),v Bangladesh,41,0.0
+970,W Barresi (NED),v England,37,0.0
+971,W Barresi (NED),v India,4,0.0
+972,WA Young (NZ),v Afghanistan,54,0.0
+973,WA Young (NZ),v Australia,32,0.0
+974,WA Young (NZ),v England,0,0.0
+975,WA Young (NZ),v India,17,0.0
+976,WA Young (NZ),v Netherlands,70,0.0
+977,WA Young (NZ),v South Africa,33,0.0

@@ -1,0 +1,816 @@
+,player,ground,runs,wkts
+0,A Dutt (NED),Bengaluru,57,0.0
+1,A Dutt (NED),Delhi,60,1.0
+2,A Dutt (NED),Dharamsala,42,0.0
+3,A Dutt (NED),Eden Gardens,35,1.0
+4,A Dutt (NED),Hyderabad,122,3.0
+5,A Dutt (NED),Lucknow,112,3.0
+6,A Dutt (NED),Pune,68,2.0
+7,A Zampa (AUS),Ahmedabad,50,3.0
+8,A Zampa (AUS),Bengaluru,54,4.0
+9,A Zampa (AUS),Chennai,59,0.0
+10,A Zampa (AUS),Delhi,9,4.0
+11,A Zampa (AUS),Dharamsala,74,3.0
+12,A Zampa (AUS),Eden Gardens,55,0.0
+13,A Zampa (AUS),Lucknow,128,5.0
+14,A Zampa (AUS),Pune,32,2.0
+15,A Zampa (AUS),Wankhede,58,1.0
+16,AAP Atkinson (ENG),Eden Gardens,45,2.0
+17,AAP Atkinson (ENG),Pune,43,0.0
+18,AAP Atkinson (ENG),Wankhede,95,2.0
+19,AD Mathews (SL),Bengaluru,59,4.0
+20,AD Mathews (SL),Delhi,35,2.0
+21,AD Mathews (SL),Pune,41,0.0
+22,AD Mathews (SL),Wankhede,23,0.0
+23,AK Markram (SA),Ahmedabad,50,0.0
+24,AK Markram (SA),Chennai,111,0.0
+25,AK Markram (SA),Delhi,106,0.0
+26,AK Markram (SA),Dharamsala,1,0.0
+27,AK Markram (SA),Eden Gardens,59,1.0
+28,AK Markram (SA),Lucknow,56,0.0
+29,AK Markram (SA),Pune,6,0.0
+30,AK Markram (SA),Wankhede,102,0.0
+31,AL Phehlukwayo (SA),Ahmedabad,75,1.0
+32,AT Carey (AUS),Chennai,0,0.0
+33,AT Nidamanuru (NED),Bengaluru,54,0.0
+34,AT Nidamanuru (NED),Delhi,14,0.0
+35,AT Nidamanuru (NED),Dharamsala,20,0.0
+36,AT Nidamanuru (NED),Hyderabad,26,0.0
+37,AT Nidamanuru (NED),Lucknow,9,0.0
+38,AT Nidamanuru (NED),Pune,41,0.0
+39,AU Rashid (ENG),Ahmedabad,120,2.0
+40,AU Rashid (ENG),Bengaluru,41,0.0
+41,AU Rashid (ENG),Delhi,62,3.0
+42,AU Rashid (ENG),Dharamsala,53,1.0
+43,AU Rashid (ENG),Eden Gardens,55,2.0
+44,AU Rashid (ENG),Lucknow,48,2.0
+45,AU Rashid (ENG),Pune,55,3.0
+46,AU Rashid (ENG),Wankhede,71,2.0
+47,Abdullah Shafique (PAK),Ahmedabad,20,0.0
+48,Abdullah Shafique (PAK),Bengaluru,68,0.0
+49,Abdullah Shafique (PAK),Chennai,67,0.0
+50,Abdullah Shafique (PAK),Eden Gardens,68,0.0
+51,Abdullah Shafique (PAK),Hyderabad,113,0.0
+52,Agha Salman (PAK),Bengaluru,21,0.0
+53,Agha Salman (PAK),Eden Gardens,76,0.0
+54,Azmatullah Omarzai (AFG),Ahmedabad,105,0.0
+55,Azmatullah Omarzai (AFG),Chennai,133,3.0
+56,Azmatullah Omarzai (AFG),Delhi,128,0.0
+57,Azmatullah Omarzai (AFG),Dharamsala,31,1.0
+58,Azmatullah Omarzai (AFG),Lucknow,42,0.0
+59,Azmatullah Omarzai (AFG),Pune,110,1.0
+60,Azmatullah Omarzai (AFG),Wankhede,74,2.0
+61,BA Stokes (ENG),Ahmedabad,64,0.0
+62,BA Stokes (ENG),Bengaluru,43,0.0
+63,BA Stokes (ENG),Eden Gardens,84,0.0
+64,BA Stokes (ENG),Lucknow,0,0.0
+65,BA Stokes (ENG),Pune,108,0.0
+66,BA Stokes (ENG),Wankhede,5,0.0
+67,BFW de Leede (NED),Bengaluru,94,2.0
+68,BFW de Leede (NED),Delhi,119,2.0
+69,BFW de Leede (NED),Dharamsala,38,2.0
+70,BFW de Leede (NED),Eden Gardens,42,2.0
+71,BFW de Leede (NED),Hyderabad,211,5.0
+72,BFW de Leede (NED),Lucknow,38,0.0
+73,BFW de Leede (NED),Pune,84,3.0
+74,BKG Mendis (SL),Bengaluru,17,0.0
+75,BKG Mendis (SL),Delhi,95,0.0
+76,BKG Mendis (SL),Hyderabad,122,0.0
+77,BKG Mendis (SL),Lucknow,20,0.0
+78,BKG Mendis (SL),Pune,39,0.0
+79,BKG Mendis (SL),Wankhede,1,0.0
+80,Babar Azam (PAK),Ahmedabad,50,0.0
+81,Babar Azam (PAK),Bengaluru,84,0.0
+82,Babar Azam (PAK),Chennai,124,0.0
+83,Babar Azam (PAK),Eden Gardens,47,0.0
+84,Babar Azam (PAK),Hyderabad,15,0.0
+85,C Green (AUS),Ahmedabad,47,0.0
+86,C Green (AUS),Chennai,19,0.0
+87,C Green (AUS),Delhi,8,0.0
+88,C Karunaratne (SL),Bengaluru,6,0.0
+89,C Karunaratne (SL),Lucknow,75,0.0
+90,CAK Rajitha (SL),Bengaluru,36,2.0
+91,CAK Rajitha (SL),Delhi,170,1.0
+92,CAK Rajitha (SL),Lucknow,50,4.0
+93,CAK Rajitha (SL),Pune,53,1.0
+94,CAK Rajitha (SL),Wankhede,79,0.0
+95,CBRLS Kumara (SL),Bengaluru,35,3.0
+96,CBRLS Kumara (SL),Lucknow,51,0.0
+97,CN Ackermann (NED),Bengaluru,60,0.0
+98,CN Ackermann (NED),Delhi,29,0.0
+99,CN Ackermann (NED),Dharamsala,28,1.0
+100,CN Ackermann (NED),Eden Gardens,40,1.0
+101,CN Ackermann (NED),Hyderabad,153,2.0
+102,CN Ackermann (NED),Lucknow,109,1.0
+103,CN Ackermann (NED),Pune,31,0.0
+104,CR Woakes (ENG),Ahmedabad,142,4.0
+105,CR Woakes (ENG),Bengaluru,30,0.0
+106,CR Woakes (ENG),Delhi,50,0.0
+107,CR Woakes (ENG),Dharamsala,63,2.0
+108,CR Woakes (ENG),Eden Gardens,31,1.0
+109,CR Woakes (ENG),Lucknow,43,2.0
+110,CR Woakes (ENG),Pune,70,1.0
+111,D Madushanka (SL),Bengaluru,114,0.0
+112,D Madushanka (SL),Delhi,159,5.0
+113,D Madushanka (SL),Hyderabad,60,2.0
+114,D Madushanka (SL),Lucknow,87,7.0
+115,D Madushanka (SL),Pune,48,2.0
+116,D Madushanka (SL),Wankhede,85,5.0
+117,DA Miller (SA),Ahmedabad,24,0.0
+118,DA Miller (SA),Chennai,29,0.0
+119,DA Miller (SA),Delhi,39,0.0
+120,DA Miller (SA),Dharamsala,43,0.0
+121,DA Miller (SA),Eden Gardens,112,0.0
+122,DA Miller (SA),Lucknow,17,0.0
+123,DA Miller (SA),Pune,53,0.0
+124,DA Miller (SA),Wankhede,39,0.0
+125,DA Warner (AUS),Ahmedabad,15,0.0
+126,DA Warner (AUS),Bengaluru,163,0.0
+127,DA Warner (AUS),Chennai,41,0.0
+128,DA Warner (AUS),Delhi,104,0.0
+129,DA Warner (AUS),Dharamsala,81,0.0
+130,DA Warner (AUS),Eden Gardens,29,0.0
+131,DA Warner (AUS),Lucknow,24,0.0
+132,DA Warner (AUS),Pune,53,0.0
+133,DA Warner (AUS),Wankhede,18,0.0
+134,DJ Malan (ENG),Ahmedabad,64,0.0
+135,DJ Malan (ENG),Bengaluru,28,0.0
+136,DJ Malan (ENG),Delhi,32,0.0
+137,DJ Malan (ENG),Dharamsala,140,0.0
+138,DJ Malan (ENG),Eden Gardens,31,0.0
+139,DJ Malan (ENG),Lucknow,16,0.0
+140,DJ Malan (ENG),Pune,87,0.0
+141,DJ Malan (ENG),Wankhede,6,0.0
+142,DJ Mitchell (NZ),Bengaluru,73,0.0
+143,DJ Mitchell (NZ),Chennai,101,0.0
+144,DJ Mitchell (NZ),Dharamsala,184,0.0
+145,DJ Mitchell (NZ),Hyderabad,48,0.0
+146,DJ Mitchell (NZ),Pune,24,0.0
+147,DJ Mitchell (NZ),Wankhede,134,0.0
+148,DJ Willey (ENG),Ahmedabad,63,1.0
+149,DJ Willey (ENG),Bengaluru,44,2.0
+150,DJ Willey (ENG),Eden Gardens,71,3.0
+151,DJ Willey (ENG),Lucknow,61,3.0
+152,DJ Willey (ENG),Pune,25,2.0
+153,DJ Willey (ENG),Wankhede,73,0.0
+154,DM de Silva (SL),Bengaluru,51,0.0
+155,DM de Silva (SL),Delhi,104,0.0
+156,DM de Silva (SL),Hyderabad,61,0.0
+157,DM de Silva (SL),Lucknow,63,0.0
+158,DM de Silva (SL),Pune,35,0.0
+159,DN Wellalage (SL),Delhi,81,1.0
+160,DN Wellalage (SL),Hyderabad,72,0.0
+161,DN Wellalage (SL),Lucknow,55,1.0
+162,DP Conway (NZ),Ahmedabad,152,0.0
+163,DP Conway (NZ),Bengaluru,80,0.0
+164,DP Conway (NZ),Chennai,65,0.0
+165,DP Conway (NZ),Dharamsala,28,0.0
+166,DP Conway (NZ),Hyderabad,32,0.0
+167,DP Conway (NZ),Pune,2,0.0
+168,DP Conway (NZ),Wankhede,13,0.0
+169,FDM Karunaratne (SL),Pune,15,0.0
+170,FDM Karunaratne (SL),Wankhede,0,0.0
+171,Fakhar Zaman (PAK),Bengaluru,126,0.0
+172,Fakhar Zaman (PAK),Eden Gardens,82,0.0
+173,Fakhar Zaman (PAK),Hyderabad,12,0.0
+174,Fazalhaq Farooqi (AFG),Chennai,39,0.0
+175,Fazalhaq Farooqi (AFG),Delhi,102,1.0
+176,Fazalhaq Farooqi (AFG),Dharamsala,19,1.0
+177,Fazalhaq Farooqi (AFG),Lucknow,36,0.0
+178,Fazalhaq Farooqi (AFG),Pune,34,4.0
+179,G Coetzee (SA),Ahmedabad,44,4.0
+180,G Coetzee (SA),Chennai,52,2.0
+181,G Coetzee (SA),Delhi,68,3.0
+182,G Coetzee (SA),Dharamsala,79,1.0
+183,G Coetzee (SA),Eden Gardens,66,2.0
+184,G Coetzee (SA),Pune,41,2.0
+185,G Coetzee (SA),Wankhede,100,6.0
+186,GD Phillips (NZ),Ahmedabad,17,2.0
+187,GD Phillips (NZ),Bengaluru,103,0.0
+188,GD Phillips (NZ),Chennai,113,1.0
+189,GD Phillips (NZ),Dharamsala,84,3.0
+190,GD Phillips (NZ),Hyderabad,15,0.0
+191,GD Phillips (NZ),Pune,112,0.0
+192,GD Phillips (NZ),Wankhede,74,0.0
+193,GJ Maxwell (AUS),Bengaluru,40,0.0
+194,GJ Maxwell (AUS),Chennai,48,0.0
+195,GJ Maxwell (AUS),Delhi,106,0.0
+196,GJ Maxwell (AUS),Dharamsala,103,1.0
+197,GJ Maxwell (AUS),Eden Gardens,36,0.0
+198,GJ Maxwell (AUS),Lucknow,104,3.0
+199,GJ Maxwell (AUS),Wankhede,256,1.0
+200,H Klaasen (SA),Ahmedabad,10,0.0
+201,H Klaasen (SA),Chennai,12,0.0
+202,H Klaasen (SA),Delhi,32,0.0
+203,H Klaasen (SA),Dharamsala,28,0.0
+204,H Klaasen (SA),Eden Gardens,48,0.0
+205,H Klaasen (SA),Lucknow,29,0.0
+206,H Klaasen (SA),Pune,15,0.0
+207,H Klaasen (SA),Wankhede,199,0.0
+208,HC Brook (ENG),Ahmedabad,25,0.0
+209,HC Brook (ENG),Delhi,66,0.0
+210,HC Brook (ENG),Dharamsala,20,0.0
+211,HC Brook (ENG),Eden Gardens,30,0.0
+212,HC Brook (ENG),Pune,11,0.0
+213,HC Brook (ENG),Wankhede,17,0.0
+214,HE van der Dussen (SA),Ahmedabad,76,0.0
+215,HE van der Dussen (SA),Chennai,21,0.0
+216,HE van der Dussen (SA),Delhi,108,0.0
+217,HE van der Dussen (SA),Dharamsala,4,0.0
+218,HE van der Dussen (SA),Eden Gardens,19,0.0
+219,HE van der Dussen (SA),Lucknow,26,0.0
+220,HE van der Dussen (SA),Pune,133,0.0
+221,HE van der Dussen (SA),Wankhede,61,0.0
+222,HH Pandya (IND),Ahmedabad,34,2.0
+223,HH Pandya (IND),Chennai,39,1.0
+224,HH Pandya (IND),Delhi,43,2.0
+225,HH Pandya (IND),Pune,8,0.0
+226,Haris Rauf (PAK),Ahmedabad,45,0.0
+227,Haris Rauf (PAK),Bengaluru,168,4.0
+228,Haris Rauf (PAK),Chennai,115,2.0
+229,Haris Rauf (PAK),Eden Gardens,135,5.0
+230,Haris Rauf (PAK),Hyderabad,123,5.0
+231,Hasan Ali (PAK),Ahmedabad,46,1.0
+232,Hasan Ali (PAK),Bengaluru,147,1.0
+233,Hasan Ali (PAK),Chennai,44,1.0
+234,Hasan Ali (PAK),Hyderabad,104,6.0
+235,Hasan Mahmud (BAN),Pune,65,1.0
+236,Hasan Mahmud (BAN),Wankhede,82,2.0
+237,Hashmatullah Shahidi (AFG),Ahmedabad,2,0.0
+238,Hashmatullah Shahidi (AFG),Chennai,56,0.0
+239,Hashmatullah Shahidi (AFG),Delhi,94,0.0
+240,Hashmatullah Shahidi (AFG),Dharamsala,18,0.0
+241,Hashmatullah Shahidi (AFG),Lucknow,56,0.0
+242,Hashmatullah Shahidi (AFG),Pune,58,0.0
+243,Hashmatullah Shahidi (AFG),Wankhede,26,0.0
+244,IS Sodhi (NZ),Bengaluru,44,0.0
+245,Ibrahim Zadran (AFG),Ahmedabad,15,0.0
+246,Ibrahim Zadran (AFG),Chennai,101,0.0
+247,Ibrahim Zadran (AFG),Delhi,50,0.0
+248,Ibrahim Zadran (AFG),Dharamsala,22,0.0
+249,Ibrahim Zadran (AFG),Lucknow,20,0.0
+250,Ibrahim Zadran (AFG),Pune,39,0.0
+251,Ibrahim Zadran (AFG),Wankhede,129,0.0
+252,Iftikhar Ahmed (PAK),Ahmedabad,4,0.0
+253,Iftikhar Ahmed (PAK),Bengaluru,118,1.0
+254,Iftikhar Ahmed (PAK),Chennai,111,0.0
+255,Iftikhar Ahmed (PAK),Eden Gardens,102,2.0
+256,Iftikhar Ahmed (PAK),Hyderabad,69,1.0
+257,Ikram Alikhil (AFG),Ahmedabad,12,0.0
+258,Ikram Alikhil (AFG),Chennai,19,0.0
+259,Ikram Alikhil (AFG),Delhi,58,0.0
+260,Imam-ul-Haq (PAK),Ahmedabad,36,0.0
+261,Imam-ul-Haq (PAK),Bengaluru,70,0.0
+262,Imam-ul-Haq (PAK),Chennai,29,0.0
+263,Imam-ul-Haq (PAK),Hyderabad,27,0.0
+264,Ishan Kishan (IND),Chennai,0,0.0
+265,Ishan Kishan (IND),Delhi,47,0.0
+266,JC Buttler (ENG),Ahmedabad,44,0.0
+267,JC Buttler (ENG),Bengaluru,8,0.0
+268,JC Buttler (ENG),Delhi,9,0.0
+269,JC Buttler (ENG),Dharamsala,20,0.0
+270,JC Buttler (ENG),Eden Gardens,27,0.0
+271,JC Buttler (ENG),Lucknow,10,0.0
+272,JC Buttler (ENG),Pune,5,0.0
+273,JC Buttler (ENG),Wankhede,15,0.0
+274,JDS Neesham (NZ),Ahmedabad,56,0.0
+275,JDS Neesham (NZ),Dharamsala,90,1.0
+276,JDS Neesham (NZ),Pune,69,1.0
+277,JE Root (ENG),Ahmedabad,90,0.0
+278,JE Root (ENG),Bengaluru,3,0.0
+279,JE Root (ENG),Delhi,30,1.0
+280,JE Root (ENG),Dharamsala,82,0.0
+281,JE Root (ENG),Eden Gardens,60,0.0
+282,JE Root (ENG),Lucknow,0,0.0
+283,JE Root (ENG),Pune,28,0.0
+284,JE Root (ENG),Wankhede,50,0.0
+285,JJ Bumrah (IND),Ahmedabad,19,2.0
+286,JJ Bumrah (IND),Bengaluru,33,2.0
+287,JJ Bumrah (IND),Chennai,35,2.0
+288,JJ Bumrah (IND),Delhi,39,4.0
+289,JJ Bumrah (IND),Dharamsala,45,1.0
+290,JJ Bumrah (IND),Eden Gardens,14,0.0
+291,JJ Bumrah (IND),Lucknow,48,3.0
+292,JJ Bumrah (IND),Pune,41,2.0
+293,JJ Bumrah (IND),Wankhede,73,2.0
+294,JM Bairstow (ENG),Ahmedabad,33,0.0
+295,JM Bairstow (ENG),Bengaluru,30,0.0
+296,JM Bairstow (ENG),Delhi,2,0.0
+297,JM Bairstow (ENG),Dharamsala,52,0.0
+298,JM Bairstow (ENG),Eden Gardens,59,0.0
+299,JM Bairstow (ENG),Lucknow,14,0.0
+300,JM Bairstow (ENG),Pune,15,0.0
+301,JM Bairstow (ENG),Wankhede,10,0.0
+302,JP Inglis (AUS),Ahmedabad,3,0.0
+303,JP Inglis (AUS),Bengaluru,13,0.0
+304,JP Inglis (AUS),Delhi,14,0.0
+305,JP Inglis (AUS),Dharamsala,38,0.0
+306,JP Inglis (AUS),Eden Gardens,28,0.0
+307,JP Inglis (AUS),Lucknow,63,0.0
+308,JP Inglis (AUS),Wankhede,0,0.0
+309,JR Hazlewood (AUS),Ahmedabad,50,2.0
+310,JR Hazlewood (AUS),Bengaluru,37,1.0
+311,JR Hazlewood (AUS),Chennai,39,3.0
+312,JR Hazlewood (AUS),Delhi,27,1.0
+313,JR Hazlewood (AUS),Dharamsala,70,2.0
+314,JR Hazlewood (AUS),Eden Gardens,12,2.0
+315,JR Hazlewood (AUS),Lucknow,98,1.0
+316,JR Hazlewood (AUS),Pune,21,0.0
+317,JR Hazlewood (AUS),Wankhede,39,2.0
+318,K Rabada (SA),Ahmedabad,40,0.0
+319,K Rabada (SA),Delhi,50,2.0
+320,K Rabada (SA),Dharamsala,65,2.0
+321,K Rabada (SA),Eden Gardens,105,2.0
+322,K Rabada (SA),Lucknow,33,3.0
+323,K Rabada (SA),Pune,16,1.0
+324,K Rabada (SA),Wankhede,80,3.0
+325,KA Maharaj (SA),Ahmedabad,25,2.0
+326,KA Maharaj (SA),Chennai,63,0.0
+327,KA Maharaj (SA),Delhi,62,2.0
+328,KA Maharaj (SA),Dharamsala,78,1.0
+329,KA Maharaj (SA),Eden Gardens,65,2.0
+330,KA Maharaj (SA),Lucknow,30,2.0
+331,KA Maharaj (SA),Pune,46,4.0
+332,KA Maharaj (SA),Wankhede,60,2.0
+333,KIC Asalanka (SL),Bengaluru,8,0.0
+334,KIC Asalanka (SL),Delhi,187,0.0
+335,KIC Asalanka (SL),Hyderabad,11,0.0
+336,KIC Asalanka (SL),Lucknow,69,0.0
+337,KIC Asalanka (SL),Pune,22,0.0
+338,KIC Asalanka (SL),Wankhede,1,0.0
+339,KL Rahul (IND),Ahmedabad,19,0.0
+340,KL Rahul (IND),Bengaluru,102,0.0
+341,KL Rahul (IND),Chennai,97,0.0
+342,KL Rahul (IND),Dharamsala,27,0.0
+343,KL Rahul (IND),Eden Gardens,8,0.0
+344,KL Rahul (IND),Lucknow,39,0.0
+345,KL Rahul (IND),Pune,34,0.0
+346,KL Rahul (IND),Wankhede,60,0.0
+347,KS Williamson (NZ),Bengaluru,109,0.0
+348,KS Williamson (NZ),Chennai,78,0.0
+349,KS Williamson (NZ),Wankhede,69,0.0
+350,Kuldeep Yadav (IND),Ahmedabad,35,2.0
+351,Kuldeep Yadav (IND),Bengaluru,41,2.0
+352,Kuldeep Yadav (IND),Chennai,42,2.0
+353,Kuldeep Yadav (IND),Delhi,40,1.0
+354,Kuldeep Yadav (IND),Dharamsala,73,2.0
+355,Kuldeep Yadav (IND),Eden Gardens,7,2.0
+356,Kuldeep Yadav (IND),Lucknow,33,2.0
+357,Kuldeep Yadav (IND),Pune,47,1.0
+358,Kuldeep Yadav (IND),Wankhede,59,1.0
+359,L Ngidi (SA),Ahmedabad,69,2.0
+360,L Ngidi (SA),Chennai,49,1.0
+361,L Ngidi (SA),Delhi,49,1.0
+362,L Ngidi (SA),Dharamsala,64,2.0
+363,L Ngidi (SA),Eden Gardens,63,1.0
+364,L Ngidi (SA),Lucknow,18,1.0
+365,L Ngidi (SA),Pune,28,0.0
+366,L Ngidi (SA),Wankhede,26,2.0
+367,LB Williams (SA),Wankhede,56,2.0
+368,LH Ferguson (NZ),Bengaluru,35,2.0
+369,LH Ferguson (NZ),Chennai,68,6.0
+370,LH Ferguson (NZ),Dharamsala,102,2.0
+371,LH Ferguson (NZ),Hyderabad,32,0.0
+372,LH Ferguson (NZ),Wankhede,71,0.0
+373,LS Livingstone (ENG),Ahmedabad,88,1.0
+374,LS Livingstone (ENG),Bengaluru,18,0.0
+375,LS Livingstone (ENG),Delhi,43,1.0
+376,LS Livingstone (ENG),Dharamsala,13,1.0
+377,LS Livingstone (ENG),Lucknow,56,0.0
+378,LV van Beek (NED),Bengaluru,123,0.0
+379,LV van Beek (NED),Delhi,74,4.0
+380,LV van Beek (NED),Dharamsala,70,3.0
+381,LV van Beek (NED),Eden Gardens,53,1.0
+382,LV van Beek (NED),Hyderabad,58,1.0
+383,LV van Beek (NED),Lucknow,148,1.0
+384,LV van Beek (NED),Pune,90,2.0
+385,Litton Das (BAN),Chennai,0,0.0
+386,Litton Das (BAN),Delhi,23,0.0
+387,Litton Das (BAN),Dharamsala,89,0.0
+388,Litton Das (BAN),Eden Gardens,48,0.0
+389,Litton Das (BAN),Pune,102,0.0
+390,Litton Das (BAN),Wankhede,22,0.0
+391,M Jansen (SA),Chennai,63,3.0
+392,M Jansen (SA),Delhi,104,2.0
+393,M Jansen (SA),Dharamsala,36,2.0
+394,M Jansen (SA),Eden Gardens,143,1.0
+395,M Jansen (SA),Lucknow,80,2.0
+396,M Jansen (SA),Pune,31,3.0
+397,M Jansen (SA),Wankhede,150,4.0
+398,M Labuschagne (AUS),Ahmedabad,71,0.0
+399,M Labuschagne (AUS),Bengaluru,8,0.0
+400,M Labuschagne (AUS),Chennai,27,0.0
+401,M Labuschagne (AUS),Delhi,62,0.0
+402,M Labuschagne (AUS),Dharamsala,18,0.0
+403,M Labuschagne (AUS),Eden Gardens,18,0.0
+404,M Labuschagne (AUS),Lucknow,86,0.0
+405,M Labuschagne (AUS),Wankhede,14,0.0
+406,M Pathirana (SL),Delhi,100,1.0
+407,M Pathirana (SL),Hyderabad,91,1.0
+408,M Theekshana (SL),Bengaluru,102,2.0
+409,M Theekshana (SL),Delhi,65,2.0
+410,M Theekshana (SL),Hyderabad,59,1.0
+411,M Theekshana (SL),Lucknow,93,1.0
+412,M Theekshana (SL),Pune,84,0.0
+413,M Theekshana (SL),Wankhede,79,0.0
+414,MA Starc (AUS),Ahmedabad,76,2.0
+415,MA Starc (AUS),Bengaluru,67,1.0
+416,MA Starc (AUS),Chennai,59,1.0
+417,MA Starc (AUS),Delhi,22,1.0
+418,MA Starc (AUS),Dharamsala,90,0.0
+419,MA Starc (AUS),Eden Gardens,50,3.0
+420,MA Starc (AUS),Lucknow,123,4.0
+421,MA Starc (AUS),Wankhede,73,1.0
+422,MA Wood (ENG),Ahmedabad,138,2.0
+423,MA Wood (ENG),Bengaluru,28,0.0
+424,MA Wood (ENG),Delhi,68,2.0
+425,MA Wood (ENG),Dharamsala,35,1.0
+426,MA Wood (ENG),Lucknow,46,1.0
+427,MA Wood (ENG),Wankhede,119,0.0
+428,MADI Hemantha (SL),Lucknow,46,0.0
+429,MADI Hemantha (SL),Wankhede,52,0.0
+430,MD Shanaka (SL),Delhi,104,0.0
+431,MD Shanaka (SL),Hyderabad,40,0.0
+432,MDKJ Perera (SL),Bengaluru,55,0.0
+433,MDKJ Perera (SL),Delhi,11,0.0
+434,MDKJ Perera (SL),Hyderabad,0,0.0
+435,MDKJ Perera (SL),Lucknow,83,0.0
+436,MJ Henry (NZ),Ahmedabad,48,3.0
+437,MJ Henry (NZ),Chennai,74,3.0
+438,MJ Henry (NZ),Dharamsala,131,2.0
+439,MJ Henry (NZ),Hyderabad,50,3.0
+440,MJ Henry (NZ),Pune,31,0.0
+441,MJ Santner (NZ),Ahmedabad,37,2.0
+442,MJ Santner (NZ),Bengaluru,83,2.0
+443,MJ Santner (NZ),Chennai,77,4.0
+444,MJ Santner (NZ),Dharamsala,135,3.0
+445,MJ Santner (NZ),Hyderabad,95,5.0
+446,MJ Santner (NZ),Pune,65,0.0
+447,MJ Santner (NZ),Wankhede,60,0.0
+448,MM Ali (ENG),Ahmedabad,141,0.0
+449,MM Ali (ENG),Bengaluru,36,0.0
+450,MM Ali (ENG),Eden Gardens,68,2.0
+451,MM Ali (ENG),Lucknow,52,0.0
+452,MM Ali (ENG),Pune,46,3.0
+453,MP O'Dowd (NED),Bengaluru,30,0.0
+454,MP O'Dowd (NED),Delhi,6,0.0
+455,MP O'Dowd (NED),Dharamsala,18,0.0
+456,MP O'Dowd (NED),Eden Gardens,0,0.0
+457,MP O'Dowd (NED),Hyderabad,21,0.0
+458,MP O'Dowd (NED),Lucknow,58,0.0
+459,MP O'Dowd (NED),Pune,5,0.0
+460,MP Stoinis (AUS),Ahmedabad,69,1.0
+461,MP Stoinis (AUS),Bengaluru,61,2.0
+462,MP Stoinis (AUS),Lucknow,47,0.0
+463,MP Stoinis (AUS),Pune,45,1.0
+464,MP Stoinis (AUS),Wankhede,8,0.0
+465,MR Marsh (AUS),Bengaluru,121,0.0
+466,MR Marsh (AUS),Chennai,0,0.0
+467,MR Marsh (AUS),Delhi,28,2.0
+468,MR Marsh (AUS),Dharamsala,54,0.0
+469,MR Marsh (AUS),Eden Gardens,0,0.0
+470,MR Marsh (AUS),Lucknow,65,0.0
+471,MR Marsh (AUS),Pune,225,0.0
+472,MR Marsh (AUS),Wankhede,24,0.0
+473,MS Chapman (NZ),Bengaluru,46,0.0
+474,MS Chapman (NZ),Chennai,25,0.0
+475,MS Chapman (NZ),Dharamsala,6,0.0
+476,MS Chapman (NZ),Hyderabad,5,0.0
+477,MS Chapman (NZ),Wankhede,2,0.0
+478,Mahedi Hasan (BAN),Dharamsala,85,4.0
+479,Mahedi Hasan (BAN),Eden Gardens,57,2.0
+480,Mahedi Hasan (BAN),Pune,40,0.0
+481,Mahmudullah (BAN),Chennai,41,0.0
+482,Mahmudullah (BAN),Delhi,22,0.0
+483,Mahmudullah (BAN),Dharamsala,7,0.0
+484,Mahmudullah (BAN),Eden Gardens,76,0.0
+485,Mahmudullah (BAN),Pune,84,0.0
+486,Mahmudullah (BAN),Wankhede,131,0.0
+487,Mehidy Hasan Miraz (BAN),Chennai,88,0.0
+488,Mehidy Hasan Miraz (BAN),Delhi,52,1.0
+489,Mehidy Hasan Miraz (BAN),Dharamsala,145,3.0
+490,Mehidy Hasan Miraz (BAN),Eden Gardens,137,3.0
+491,Mehidy Hasan Miraz (BAN),Pune,126,2.0
+492,Mehidy Hasan Miraz (BAN),Wankhede,55,1.0
+493,Mohammad Nabi (AFG),Ahmedabad,37,2.0
+494,Mohammad Nabi (AFG),Chennai,79,1.0
+495,Mohammad Nabi (AFG),Delhi,76,2.0
+496,Mohammad Nabi (AFG),Dharamsala,24,0.0
+497,Mohammad Nabi (AFG),Lucknow,28,3.0
+498,Mohammad Nabi (AFG),Pune,33,0.0
+499,Mohammad Nabi (AFG),Wankhede,32,0.0
+500,Mohammad Nawaz (3) (PAK),Ahmedabad,51,0.0
+501,Mohammad Nawaz (3) (PAK),Bengaluru,57,0.0
+502,Mohammad Nawaz (3) (PAK),Chennai,64,0.0
+503,Mohammad Nawaz (3) (PAK),Hyderabad,132,2.0
+504,Mohammad Rizwan (PAK),Ahmedabad,49,0.0
+505,Mohammad Rizwan (PAK),Bengaluru,46,0.0
+506,Mohammad Rizwan (PAK),Chennai,39,0.0
+507,Mohammad Rizwan (PAK),Eden Gardens,62,0.0
+508,Mohammad Rizwan (PAK),Hyderabad,199,0.0
+509,Mohammad Wasim (1) (PAK),Bengaluru,60,3.0
+510,Mohammad Wasim (1) (PAK),Chennai,57,2.0
+511,Mohammad Wasim (1) (PAK),Eden Gardens,121,5.0
+512,Mohammed Shami (IND),Bengaluru,41,0.0
+513,Mohammed Shami (IND),Dharamsala,55,5.0
+514,Mohammed Shami (IND),Eden Gardens,18,2.0
+515,Mohammed Shami (IND),Lucknow,23,4.0
+516,Mohammed Shami (IND),Wankhede,77,12.0
+517,Mohammed Siraj (IND),Ahmedabad,50,2.0
+518,Mohammed Siraj (IND),Bengaluru,29,2.0
+519,Mohammed Siraj (IND),Chennai,26,1.0
+520,Mohammed Siraj (IND),Delhi,76,0.0
+521,Mohammed Siraj (IND),Dharamsala,45,1.0
+522,Mohammed Siraj (IND),Eden Gardens,11,1.0
+523,Mohammed Siraj (IND),Lucknow,33,0.0
+524,Mohammed Siraj (IND),Pune,60,2.0
+525,Mohammed Siraj (IND),Wankhede,94,4.0
+526,Mujeeb Ur Rahman (AFG),Ahmedabad,59,1.0
+527,Mujeeb Ur Rahman (AFG),Chennai,116,1.0
+528,Mujeeb Ur Rahman (AFG),Delhi,153,3.0
+529,Mujeeb Ur Rahman (AFG),Dharamsala,31,0.0
+530,Mujeeb Ur Rahman (AFG),Lucknow,40,1.0
+531,Mujeeb Ur Rahman (AFG),Pune,38,2.0
+532,Mujeeb Ur Rahman (AFG),Wankhede,72,0.0
+533,Mushfiqur Rahim (BAN),Chennai,66,0.0
+534,Mushfiqur Rahim (BAN),Delhi,10,0.0
+535,Mushfiqur Rahim (BAN),Dharamsala,53,0.0
+536,Mushfiqur Rahim (BAN),Eden Gardens,6,0.0
+537,Mushfiqur Rahim (BAN),Pune,59,0.0
+538,Mushfiqur Rahim (BAN),Wankhede,8,0.0
+539,Mustafizur Rahman (BAN),Chennai,40,1.0
+540,Mustafizur Rahman (BAN),Dharamsala,101,1.0
+541,Mustafizur Rahman (BAN),Eden Gardens,106,2.0
+542,Mustafizur Rahman (BAN),Pune,106,1.0
+543,Mustafizur Rahman (BAN),Wankhede,87,0.0
+544,Najibullah Zadran (AFG),Delhi,2,0.0
+545,Najibullah Zadran (AFG),Dharamsala,5,0.0
+546,Najmul Hossain Shanto (BAN),Chennai,7,0.0
+547,Najmul Hossain Shanto (BAN),Delhi,90,0.0
+548,Najmul Hossain Shanto (BAN),Dharamsala,59,0.0
+549,Najmul Hossain Shanto (BAN),Eden Gardens,18,0.0
+550,Najmul Hossain Shanto (BAN),Pune,53,0.0
+551,Najmul Hossain Shanto (BAN),Wankhede,0,0.0
+552,Nasum Ahmed (BAN),Pune,166,0.0
+553,Nasum Ahmed (BAN),Wankhede,46,0.0
+554,Naveen-ul-Haq (AFG),Ahmedabad,54,0.0
+555,Naveen-ul-Haq (AFG),Chennai,100,4.0
+556,Naveen-ul-Haq (AFG),Delhi,89,1.0
+557,Naveen-ul-Haq (AFG),Dharamsala,31,1.0
+558,Naveen-ul-Haq (AFG),Pune,47,0.0
+559,Naveen-ul-Haq (AFG),Wankhede,47,2.0
+560,Noor Ahmad (AFG),Ahmedabad,75,0.0
+561,Noor Ahmad (AFG),Chennai,49,3.0
+562,Noor Ahmad (AFG),Lucknow,31,2.0
+563,Noor Ahmad (AFG),Wankhede,53,0.0
+564,P Nissanka (SL),Bengaluru,79,0.0
+565,P Nissanka (SL),Delhi,41,0.0
+566,P Nissanka (SL),Hyderabad,51,0.0
+567,P Nissanka (SL),Lucknow,115,0.0
+568,P Nissanka (SL),Pune,46,0.0
+569,P Nissanka (SL),Wankhede,0,0.0
+570,PA van Meekeren (NED),Bengaluru,93,1.0
+571,PA van Meekeren (NED),Delhi,64,0.0
+572,PA van Meekeren (NED),Dharamsala,40,2.0
+573,PA van Meekeren (NED),Eden Gardens,23,4.0
+574,PA van Meekeren (NED),Hyderabad,110,3.0
+575,PA van Meekeren (NED),Lucknow,82,1.0
+576,PA van Meekeren (NED),Pune,61,1.0
+577,PJ Cummins (AUS),Ahmedabad,59,2.0
+578,PJ Cummins (AUS),Bengaluru,68,2.0
+579,PJ Cummins (AUS),Chennai,48,0.0
+580,PJ Cummins (AUS),Delhi,26,1.0
+581,PJ Cummins (AUS),Dharamsala,103,2.0
+582,PJ Cummins (AUS),Eden Gardens,65,3.0
+583,PJ Cummins (AUS),Lucknow,125,3.0
+584,PJ Cummins (AUS),Pune,56,0.0
+585,PJ Cummins (AUS),Wankhede,59,0.0
+586,PVD Chameera (SL),Bengaluru,21,1.0
+587,PVD Chameera (SL),Delhi,58,0.0
+588,PVD Chameera (SL),Pune,52,0.0
+589,PVD Chameera (SL),Wankhede,71,1.0
+590,Q de Kock (SA),Ahmedabad,41,0.0
+591,Q de Kock (SA),Chennai,24,0.0
+592,Q de Kock (SA),Delhi,100,0.0
+593,Q de Kock (SA),Dharamsala,20,0.0
+594,Q de Kock (SA),Eden Gardens,8,0.0
+595,Q de Kock (SA),Lucknow,109,0.0
+596,Q de Kock (SA),Pune,114,0.0
+597,Q de Kock (SA),Wankhede,178,0.0
+598,R Ashwin (IND),Chennai,34,1.0
+599,R Klein (NED),Hyderabad,49,0.0
+600,R Ravindra (NZ),Ahmedabad,199,1.0
+601,R Ravindra (NZ),Bengaluru,171,2.0
+602,R Ravindra (NZ),Chennai,112,1.0
+603,R Ravindra (NZ),Dharamsala,293,0.0
+604,R Ravindra (NZ),Hyderabad,97,1.0
+605,R Ravindra (NZ),Pune,26,0.0
+606,R Ravindra (NZ),Wankhede,73,0.0
+607,RA Jadeja (IND),Ahmedabad,38,2.0
+608,RA Jadeja (IND),Bengaluru,49,2.0
+609,RA Jadeja (IND),Chennai,28,3.0
+610,RA Jadeja (IND),Delhi,38,0.0
+611,RA Jadeja (IND),Dharamsala,87,0.0
+612,RA Jadeja (IND),Eden Gardens,62,5.0
+613,RA Jadeja (IND),Lucknow,24,1.0
+614,RA Jadeja (IND),Pune,38,2.0
+615,RA Jadeja (IND),Wankhede,102,1.0
+616,RE van der Merwe (NED),Bengaluru,69,1.0
+617,RE van der Merwe (NED),Delhi,41,0.0
+618,RE van der Merwe (NED),Dharamsala,63,2.0
+619,RE van der Merwe (NED),Hyderabad,97,2.0
+620,RE van der Merwe (NED),Lucknow,87,1.0
+621,RE van der Merwe (NED),Pune,22,0.0
+622,RG Sharma (IND),Ahmedabad,86,0.0
+623,RG Sharma (IND),Bengaluru,68,1.0
+624,RG Sharma (IND),Chennai,0,0.0
+625,RG Sharma (IND),Delhi,131,0.0
+626,RG Sharma (IND),Dharamsala,46,0.0
+627,RG Sharma (IND),Eden Gardens,40,0.0
+628,RG Sharma (IND),Lucknow,87,0.0
+629,RG Sharma (IND),Pune,48,0.0
+630,RG Sharma (IND),Wankhede,51,0.0
+631,RJW Topley (ENG),Delhi,67,1.0
+632,RJW Topley (ENG),Dharamsala,44,4.0
+633,RJW Topley (ENG),Wankhede,88,3.0
+634,RR Hendricks (SA),Wankhede,97,0.0
+635,Rahmanullah Gurbaz (AFG),Ahmedabad,25,0.0
+636,Rahmanullah Gurbaz (AFG),Chennai,76,0.0
+637,Rahmanullah Gurbaz (AFG),Delhi,101,0.0
+638,Rahmanullah Gurbaz (AFG),Dharamsala,47,0.0
+639,Rahmanullah Gurbaz (AFG),Lucknow,10,0.0
+640,Rahmanullah Gurbaz (AFG),Pune,0,0.0
+641,Rahmanullah Gurbaz (AFG),Wankhede,21,0.0
+642,Rahmat Shah (AFG),Ahmedabad,38,0.0
+643,Rahmat Shah (AFG),Chennai,113,0.0
+644,Rahmat Shah (AFG),Delhi,19,0.0
+645,Rahmat Shah (AFG),Dharamsala,18,0.0
+646,Rahmat Shah (AFG),Lucknow,52,0.0
+647,Rahmat Shah (AFG),Pune,62,0.0
+648,Rahmat Shah (AFG),Wankhede,30,0.0
+649,Rashid Khan (AFG),Ahmedabad,51,2.0
+650,Rashid Khan (AFG),Chennai,92,1.0
+651,Rashid Khan (AFG),Delhi,133,5.0
+652,Rashid Khan (AFG),Dharamsala,57,0.0
+653,Rashid Khan (AFG),Lucknow,31,0.0
+654,Rashid Khan (AFG),Pune,50,1.0
+655,Rashid Khan (AFG),Wankhede,79,2.0
+656,S Samarawickrama (SL),Bengaluru,66,0.0
+657,S Samarawickrama (SL),Delhi,64,0.0
+658,S Samarawickrama (SL),Hyderabad,108,0.0
+659,S Samarawickrama (SL),Lucknow,99,0.0
+660,S Samarawickrama (SL),Pune,36,0.0
+661,S Samarawickrama (SL),Wankhede,0,0.0
+662,SA Abbott (AUS),Pune,61,2.0
+663,SA Edwards (NED),Bengaluru,17,0.0
+664,SA Edwards (NED),Delhi,12,0.0
+665,SA Edwards (NED),Dharamsala,78,0.0
+666,SA Edwards (NED),Eden Gardens,68,0.0
+667,SA Edwards (NED),Hyderabad,30,0.0
+668,SA Edwards (NED),Lucknow,16,0.0
+669,SA Edwards (NED),Pune,38,0.0
+670,SA Engelbrecht (NED),Bengaluru,45,0.0
+671,SA Engelbrecht (NED),Delhi,11,0.0
+672,SA Engelbrecht (NED),Dharamsala,19,0.0
+673,SA Engelbrecht (NED),Eden Gardens,35,0.0
+674,SA Engelbrecht (NED),Hyderabad,29,0.0
+675,SA Engelbrecht (NED),Lucknow,128,0.0
+676,SA Engelbrecht (NED),Pune,33,0.0
+677,SA Yadav (IND),Bengaluru,19,0.0
+678,SA Yadav (IND),Dharamsala,2,0.0
+679,SA Yadav (IND),Eden Gardens,22,0.0
+680,SA Yadav (IND),Lucknow,49,0.0
+681,SA Yadav (IND),Wankhede,12,0.0
+682,SA Yadav(IND),Wankhede,1,0.0
+683,SM Curran (ENG),Ahmedabad,61,1.0
+684,SM Curran (ENG),Delhi,56,0.0
+685,SM Curran (ENG),Dharamsala,58,1.0
+686,SN Thakur (IND),Ahmedabad,12,0.0
+687,SN Thakur (IND),Delhi,31,1.0
+688,SN Thakur (IND),Pune,59,1.0
+689,SPD Smith (AUS),Ahmedabad,44,0.0
+690,SPD Smith (AUS),Bengaluru,7,0.0
+691,SPD Smith (AUS),Chennai,46,0.0
+692,SPD Smith (AUS),Delhi,71,0.0
+693,SPD Smith (AUS),Dharamsala,18,0.0
+694,SPD Smith (AUS),Eden Gardens,30,0.0
+695,SPD Smith (AUS),Lucknow,19,0.0
+696,SPD Smith (AUS),Pune,63,0.0
+697,SS Iyer (IND),Ahmedabad,53,0.0
+698,SS Iyer (IND),Bengaluru,128,0.0
+699,SS Iyer (IND),Chennai,0,0.0
+700,SS Iyer (IND),Delhi,25,0.0
+701,SS Iyer (IND),Dharamsala,33,0.0
+702,SS Iyer (IND),Eden Gardens,77,0.0
+703,SS Iyer (IND),Lucknow,4,0.0
+704,SS Iyer (IND),Pune,19,0.0
+705,SS Iyer (IND),Wankhede,187,0.0
+706,Saqib Zulfiqar (NED),Hyderabad,25,0.0
+707,Saqib Zulfiqar (NED),Lucknow,28,1.0
+708,Saud Shakeel (PAK),Ahmedabad,6,0.0
+709,Saud Shakeel (PAK),Bengaluru,30,0.0
+710,Saud Shakeel (PAK),Chennai,77,0.0
+711,Saud Shakeel (PAK),Eden Gardens,29,0.0
+712,Saud Shakeel (PAK),Hyderabad,99,0.0
+713,Shadab Khan (PAK),Ahmedabad,33,0.0
+714,Shadab Khan (PAK),Chennai,132,0.0
+715,Shadab Khan (PAK),Eden Gardens,61,0.0
+716,Shadab Khan (PAK),Hyderabad,132,2.0
+717,Shaheen Shah Afridi (PAK),Ahmedabad,38,2.0
+718,Shaheen Shah Afridi (PAK),Bengaluru,154,5.0
+719,Shaheen Shah Afridi (PAK),Chennai,108,4.0
+720,Shaheen Shah Afridi (PAK),Eden Gardens,120,5.0
+721,Shaheen Shah Afridi (PAK),Hyderabad,116,2.0
+722,Shakib Al Hasan (BAN),Chennai,94,1.0
+723,Shakib Al Hasan (BAN),Delhi,139,2.0
+724,Shakib Al Hasan (BAN),Dharamsala,97,4.0
+725,Shakib Al Hasan (BAN),Eden Gardens,115,1.0
+726,Shakib Al Hasan (BAN),Wankhede,70,1.0
+727,Shariz Ahmad (NED),Eden Gardens,19,0.0
+728,Shoriful Islam (BAN),Chennai,45,0.0
+729,Shoriful Islam (BAN),Delhi,51,2.0
+730,Shoriful Islam (BAN),Dharamsala,121,5.0
+731,Shoriful Islam (BAN),Eden Gardens,77,2.0
+732,Shoriful Islam (BAN),Pune,61,0.0
+733,Shoriful Islam (BAN),Wankhede,82,1.0
+734,Shubman Gill (IND),Ahmedabad,16,0.0
+735,Shubman Gill (IND),Bengaluru,62,0.0
+736,Shubman Gill (IND),Dharamsala,26,0.0
+737,Shubman Gill (IND),Eden Gardens,23,0.0
+738,Shubman Gill (IND),Lucknow,9,0.0
+739,Shubman Gill (IND),Pune,53,0.0
+740,Shubman Gill (IND),Wankhede,172,0.0
+741,T Bavuma (SA),Ahmedabad,23,0.0
+742,T Bavuma (SA),Chennai,28,0.0
+743,T Bavuma (SA),Delhi,8,0.0
+744,T Bavuma (SA),Dharamsala,16,0.0
+745,T Bavuma (SA),Eden Gardens,11,0.0
+746,T Bavuma (SA),Lucknow,35,0.0
+747,T Bavuma (SA),Pune,24,0.0
+748,T Shamsi (SA),Chennai,64,4.0
+749,T Shamsi (SA),Eden Gardens,119,3.0
+750,T Shamsi (SA),Lucknow,38,2.0
+751,TA Boult (NZ),Ahmedabad,48,1.0
+752,TA Boult (NZ),Bengaluru,87,3.0
+753,TA Boult (NZ),Chennai,63,4.0
+754,TA Boult (NZ),Dharamsala,147,4.0
+755,TA Boult (NZ),Hyderabad,34,0.0
+756,TA Boult (NZ),Pune,58,1.0
+757,TA Boult (NZ),Wankhede,88,1.0
+758,TG Southee (NZ),Bengaluru,79,2.0
+759,TG Southee (NZ),Pune,84,2.0
+760,TG Southee (NZ),Wankhede,109,3.0
+761,TM Head (AUS),Ahmedabad,39,0.0
+762,TM Head (AUS),Dharamsala,109,0.0
+763,TM Head (AUS),Eden Gardens,83,2.0
+764,TM Head (AUS),Pune,43,0.0
+765,TM Head (AUS),Wankhede,15,0.0
+766,TWM Latham (NZ),Bengaluru,4,0.0
+767,TWM Latham (NZ),Chennai,68,0.0
+768,TWM Latham (NZ),Dharamsala,26,0.0
+769,TWM Latham (NZ),Hyderabad,53,0.0
+770,TWM Latham (NZ),Pune,4,0.0
+771,TWM Latham (NZ),Wankhede,0,0.0
+772,Tanzid Hasan (BAN),Chennai,16,0.0
+773,Tanzid Hasan (BAN),Delhi,9,0.0
+774,Tanzid Hasan (BAN),Dharamsala,6,0.0
+775,Tanzid Hasan (BAN),Eden Gardens,15,0.0
+776,Tanzid Hasan (BAN),Pune,87,0.0
+777,Tanzid Hasan (BAN),Wankhede,12,0.0
+778,Tanzim Hasan Sakib (BAN),Delhi,85,3.0
+779,Taskin Ahmed (BAN),Chennai,73,0.0
+780,Taskin Ahmed (BAN),Delhi,39,0.0
+781,Taskin Ahmed (BAN),Dharamsala,85,2.0
+782,Taskin Ahmed (BAN),Eden Gardens,96,2.0
+783,Taskin Ahmed (BAN),Pune,61,1.0
+784,Towhid Hridoy (BAN),Chennai,13,0.0
+785,Towhid Hridoy (BAN),Delhi,15,0.0
+786,Towhid Hridoy (BAN),Dharamsala,39,0.0
+787,Towhid Hridoy (BAN),Eden Gardens,7,0.0
+788,Towhid Hridoy (BAN),Pune,90,0.0
+789,Usama Mir (PAK),Bengaluru,82,1.0
+790,Usama Mir (PAK),Chennai,100,2.0
+791,Usama Mir (PAK),Eden Gardens,66,1.0
+792,V Kohli (IND),Ahmedabad,16,0.0
+793,V Kohli (IND),Bengaluru,64,1.0
+794,V Kohli (IND),Chennai,85,0.0
+795,V Kohli (IND),Delhi,55,0.0
+796,V Kohli (IND),Dharamsala,95,0.0
+797,V Kohli (IND),Eden Gardens,101,0.0
+798,V Kohli (IND),Lucknow,0,0.0
+799,V Kohli (IND),Pune,105,0.0
+800,V Kohli (IND),Wankhede,205,0.0
+801,Vikramjit Singh (NED),Delhi,52,0.0
+802,Vikramjit Singh (NED),Dharamsala,2,0.0
+803,Vikramjit Singh (NED),Eden Gardens,3,0.0
+804,Vikramjit Singh (NED),Hyderabad,89,0.0
+805,Vikramjit Singh (NED),Lucknow,4,0.0
+806,W Barresi (NED),Bengaluru,4,0.0
+807,W Barresi (NED),Eden Gardens,41,0.0
+808,W Barresi (NED),Lucknow,1,0.0
+809,W Barresi (NED),Pune,37,0.0
+810,WA Young (NZ),Ahmedabad,0,0.0
+811,WA Young (NZ),Chennai,54,0.0
+812,WA Young (NZ),Dharamsala,49,0.0
+813,WA Young (NZ),Hyderabad,70,0.0
+814,WA Young (NZ),Pune,33,0.0
