@@ -5,4 +5,4 @@ This repository comprises illustrative examples showcasing data analysis and vis
 Analyzing cricket game data and visualizing results using **Python and Matplotlib**
 
 ## Sales Data Analysis
-Analyzing diverse sales datasets to explore insights, trends, and patterns through various tools such as Excel, Power BI, and Python, and presenting the findings with visualizations
+Analyzing diverse multiple sales datasets to explore insights, trends, and patterns through various tools such as Excel, Power BI, and Python, and presenting the findings with visualizations
