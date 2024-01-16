@@ -6,7 +6,7 @@ Analyzing the performance of cricket teams and players in different scenarios an
 
 To understand the terms and concepts of the cricket game watch this [video](https://www.youtube.com/watch?v=VwII4y5vpyU)
 
-## Dataset header description 
+### Dataset header description 
 
 <table border="1">
   <tr>
