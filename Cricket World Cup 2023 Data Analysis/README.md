@@ -6,6 +6,116 @@ Analyzing the performance of cricket teams and players in different scenarios an
 
 To understand the terms and concepts of the cricket game watch this [video](https://www.youtube.com/watch?v=VwII4y5vpyU)
 
+## Dataset header description 
+
+<table border="1">
+  <tr>
+    <th>Header</th>
+    <th>Explanation</th>
+    <th>Data Type</th>
+  </tr>
+  <tr>
+    <td>team</td>
+    <td>The cricket team to which the player belongs.</td>
+    <td>Categorical</td>
+  </tr>
+  <tr>
+    <td>player</td>
+    <td>The name of the player.</td>
+    <td>Categorical</td>
+  </tr>
+  <tr>
+    <td>bat_or_bowl</td>
+    <td>Indicates whether the player is a batsman or a bowler.</td>
+    <td>Categorical</td>
+  </tr>
+  <tr>
+    <td>bb_bf</td>
+    <td>Number of balls bowled or faced by the player.</td>
+    <td>Numeric (discrete)</td>
+  </tr>
+  <tr>
+    <td>runs</td>
+    <td>Runs scored by the player.</td>
+    <td>Numeric (discrete)</td>
+  </tr>
+  <tr>
+    <td>wkts</td>
+    <td>Number of wickets taken by the player.</td>
+    <td>Numeric (discrete)</td>
+  </tr>
+  <tr>
+    <td>wicketball_prob</td>
+    <td>Probability of taking a wicket in a ball.</td>
+    <td>Numeric</td>
+  </tr>
+  <tr>
+    <td>runs_per_ball</td>
+    <td>Average runs scored or conceded per ball.</td>
+    <td>Numeric</td>
+  </tr>
+  <tr>
+    <td>opposition</td>
+    <td>The opposing team.</td>
+    <td>Categorical</td>
+  </tr>
+  <tr>
+    <td>ground</td>
+    <td>The venue where the match is played.</td>
+    <td>Categorical</td>
+  </tr>
+  <tr>
+    <td>start_date</td>
+    <td>The date when the match started.</td>
+    <td>Date</td>
+  </tr>
+  <tr>
+    <td>overs</td>
+    <td>Number of overs bowled or faced.</td>
+    <td>Numeric</td>
+  </tr>
+  <tr>
+    <td>mdns</td>
+    <td>Number of maidens bowled.</td>
+    <td>Numeric (discrete)</td>
+  </tr>
+  <tr>
+    <td>econ</td>
+    <td>Economy rate (runs conceded per over).</td>
+    <td>Numeric</td>
+  </tr>
+  <tr>
+    <td>inns</td>
+    <td>Number of innings played.</td>
+    <td>Numeric (discrete)</td>
+  </tr>
+  <tr>
+    <td>4s</td>
+    <td>Number of fours scored.</td>
+    <td>Numeric (discrete)</td>
+  </tr>
+  <tr>
+    <td>6s</td>
+    <td>Number of sixes scored.</td>
+    <td>Numeric (discrete)</td>
+  </tr>
+  <tr>
+    <td>sr</td>
+    <td>Strike rate (for batting) or wicket strike rate (for bowling).</td>
+    <td>Numeric</td>
+  </tr>
+  <tr>
+    <td>not_out</td>
+    <td>Indicates whether the player was not out (1) or not (0).</td>
+    <td>Categorical</td>
+  </tr>
+  <tr>
+    <td>mins</td>
+    <td>Duration of the player's innings in minutes.</td>
+    <td>Numeric</td>
+  </tr>
+</table>
+
 ## Required Analysis
 
 **1. Team Performance Analysis:**
