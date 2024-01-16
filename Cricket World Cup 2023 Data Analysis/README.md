@@ -33,7 +33,7 @@ You can find this notebook also on Kaggle [here](https://www.kaggle.com/code/moh
 
 You can find the used dataset on Kaggle [here](https://www.kaggle.com/datasets/mohamedeldakrory8/world-cup-2023-data/data)
 
-The notebook contains the following topics
+**The notebook contains the following topics**
 
 ### Dataset description
 - Load data & preview
